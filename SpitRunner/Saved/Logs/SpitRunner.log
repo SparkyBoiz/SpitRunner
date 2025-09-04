@@ -4244,3 +4244,1299 @@ Otherwise assets can be missing from cooked builds. Continue with rename?
 [2025.09.04-20.58.11:729][150]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 5138.804688
 [2025.09.04-20.58.12:729][153]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
 [2025.09.04-20.58.12:729][153]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 5139.471680, Update Interval: 351.428558
+[2025.09.04-21.04.53:777][356]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 5540.856445
+[2025.09.04-21.04.54:777][359]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.09.04-21.04.54:777][359]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 5541.522949, Update Interval: 331.610474
+[2025.09.04-21.11.11:492][489]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 5918.570312
+[2025.09.04-21.11.12:491][492]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.09.04-21.11.12:491][492]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 5919.236816, Update Interval: 354.682465
+[2025.09.04-21.17.56:890][705]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 6323.969238
+[2025.09.04-21.17.57:890][708]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.09.04-21.17.57:890][708]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 6324.635742, Update Interval: 301.673645
+[2025.09.04-21.19.46:486][430]LogContentBrowser: Deferred new asset file creation: NewWorld
+[2025.09.04-21.19.46:501][430]LogContentBrowser: Creating deferred item: NewWorld
+[2025.09.04-21.19.46:519][431]LogContentBrowser: Renaming the item being created (Deferred Item: NewWorld).
+[2025.09.04-21.19.50:670][682]LogContentBrowser: Attempting asset rename: NewWorld -> MainMenu
+[2025.09.04-21.19.50:671][682]LogChaosDD: Creating Chaos Debug Draw Scene for world MainMenu
+[2025.09.04-21.19.50:688][682]LogContentBrowser: End creating deferred item NewWorld
+[2025.09.04-21.19.50:926][686]LogD3D12RHI: Waited for PSO creation for 100.000000ms
+[2025.09.04-21.19.51:026][686]LogD3D12RHI: Waited for PSO creation for 200.000000ms
+[2025.09.04-21.19.54:161][803]LogUObjectHash: Compacting FUObjectHashTables data took   1.81ms
+[2025.09.04-21.19.55:691][803]LogSlate: Window 'Save Content' being destroyed
+[2025.09.04-21.19.55:727][803]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.09.04-21.19.55:880][803]LogUObjectHash: Compacting FUObjectHashTables data took   0.87ms
+[2025.09.04-21.19.55:893][803]LogSavePackage: Moving output files for package: /Game/FirstPerson/lukes_changes/MainMenu
+[2025.09.04-21.19.55:894][803]LogSavePackage: Moving '../../../../../../Users/slynch/Documents/Unreal Projects/SpitRunner/SpitRunner/Saved/MainMenu78B81E7A4752F2600AD557BDAACDFBEF.tmp' to '../../../../../../Users/slynch/Documents/Unreal Projects/SpitRunner/SpitRunner/Content/FirstPerson/lukes_changes/MainMenu.umap'
+[2025.09.04-21.19.55:895][803]LogAssetRegistry: Warning: FPathExistence failed to gather correct capitalization from disk for C:/Users/slynch/Documents/Unreal Projects/SpitRunner/SpitRunner/Content/FirstPerson/lukes_changes/MainMenu.umap, because GetFilenameOnDisk returned non-matching filename 'C:/SnapVolumesTemp/MountPoints/{2a1a129f-0000-0000-0000-100000000000}/{84b2e9e6-b9f5-47d9-be52-3b2d612ac90e}/SVROOT/Users/slynch/Documents/Unreal Projects/SpitRunner/SpitRunner/Content/FirstPerson/lukes_changes/MainMenu.umap'.
+[2025.09.04-21.19.55:901][803]LogFileHelpers: Saving map 'MainMenu' took 0.055
+[2025.09.04-21.19.56:045][803]LogFileHelpers: InternalPromptForCheckoutAndSave took 317.908 ms (total: 2.90 sec)
+[2025.09.04-21.19.56:045][803]LogAssetEditorSubsystem: Opening Asset editor for World /Game/FirstPerson/lukes_changes/MainMenu.MainMenu
+[2025.09.04-21.19.56:045][803]Cmd: MAP LOAD FILE="../../../../../../Users/slynch/Documents/Unreal Projects/SpitRunner/SpitRunner/Content/FirstPerson/lukes_changes/MainMenu.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=4
+[2025.09.04-21.19.56:069][803]LogWorld: UWorld::CleanupWorld for Lvl_1, bSessionEnded=true, bCleanupResources=true
+[2025.09.04-21.19.56:070][803]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.09.04-21.19.56:104][803]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.09.04-21.19.56:108][803]LogUObjectHash: Compacting FUObjectHashTables data took   1.84ms
+[2025.09.04-21.19.56:111][803]LogWorld: UWorld::CleanupWorld for MainMenu, bSessionEnded=true, bCleanupResources=true
+[2025.09.04-21.19.56:111][803]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.09.04-21.19.56:148][803]LogUObjectHash: Compacting FUObjectHashTables data took   1.80ms
+[2025.09.04-21.19.56:184][803]LogUObjectHash: Compacting FUObjectHashTables data took   1.80ms
+[2025.09.04-21.19.56:186][803]LogStreaming: Display: FlushAsyncLoading(580): 1 QueuedPackages, 0 AsyncPackages
+[2025.09.04-21.19.56:188][803]LogAudio: Display: Audio Device (ID: 1) registered with world 'MainMenu'.
+[2025.09.04-21.19.56:188][803]LogChaosDD: Creating Chaos Debug Draw Scene for world MainMenu
+[2025.09.04-21.19.56:205][803]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2025.09.04-21.19.56:241][803]LogUObjectHash: Compacting FUObjectHashTables data took   1.80ms
+[2025.09.04-21.19.56:253][803]Cmd: MAP CHECKDEP NOCLEARLOG
+[2025.09.04-21.19.56:253][803]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.069ms to complete.
+[2025.09.04-21.19.56:413][803]LogContentValidation: Display: Starting to validate 1 assets
+[2025.09.04-21.19.56:413][803]LogContentValidation: Enabled validators:
+[2025.09.04-21.19.56:413][803]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.09.04-21.19.56:413][803]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.09.04-21.19.56:413][803]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.09.04-21.19.56:413][803]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.09.04-21.19.56:413][803]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.09.04-21.19.56:413][803]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.09.04-21.19.56:413][803]AssetCheck: /Game/FirstPerson/lukes_changes/MainMenu Validating asset
+[2025.09.04-21.19.56:489][803]LogSourceControl: Display: Uncontrolled Changelist persistency file saved ../../../../../../Users/slynch/Documents/Unreal Projects/SpitRunner/SpitRunner/Saved/SourceControl/UncontrolledChangelists.json
+[2025.09.04-21.19.56:588][804]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2025.09.04-21.20.18:933][360]LogSlate: Window 'Pick Parent Class for New Widget Blueprint' being destroyed
+[2025.09.04-21.20.18:963][360]LogContentBrowser: Deferred new asset file creation: NewWidgetBlueprint
+[2025.09.04-21.20.18:971][360]LogContentBrowser: Creating deferred item: NewWidgetBlueprint
+[2025.09.04-21.20.18:999][361]LogContentBrowser: Renaming the item being created (Deferred Item: NewWidgetBlueprint).
+[2025.09.04-21.20.19:925][412]LogContentBrowser: Attempting asset rename: NewWidgetBlueprint -> NewWidgetBlueprint
+[2025.09.04-21.20.19:937][412]LogContentBrowser: End creating deferred item NewWidgetBlueprint
+[2025.09.04-21.20.20:080][416]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/FirstPerson/lukes_changes/NewWidgetBlueprint.NewWidgetBlueprint
+[2025.09.04-21.20.20:080][416]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_7
+[2025.09.04-21.20.20:097][416]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_8
+[2025.09.04-21.20.20:111][416]LogSlate: Warning: The command 'UMGEditor.OpenAnimDrawer' has the same default chord as 'EditorViewport.Next' [Ctrl+Shift+Space Bar]
+[2025.09.04-21.20.21:305][416]LogSlate: Took 0.009531 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2025.09.04-21.20.45:741][651]LogContentBrowser: Attempting asset rename: NewWidgetBlueprint -> WBP_Mainmenu
+[2025.09.04-21.20.45:984][651]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.09.04-21.20.45:985][651]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/FirstPerson/lukes_changes/WBP_Mainmenu] ([2] browsable assets)...
+[2025.09.04-21.20.45:990][651]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/FirstPerson/lukes_changes/WBP_Mainmenu.WBP_Mainmenu]
+[2025.09.04-21.20.45:990][651]OBJ SavePackage: Finished generating thumbnails for package [/Game/FirstPerson/lukes_changes/WBP_Mainmenu]
+[2025.09.04-21.20.46:001][651]LogSavePackage: Moving output files for package: /Game/FirstPerson/lukes_changes/WBP_Mainmenu
+[2025.09.04-21.20.46:001][651]LogSavePackage: Moving '../../../../../../Users/slynch/Documents/Unreal Projects/SpitRunner/SpitRunner/Saved/WBP_Mainmenu7B645BA44CC30C986E74A894F3E84CC0.tmp' to '../../../../../../Users/slynch/Documents/Unreal Projects/SpitRunner/SpitRunner/Content/FirstPerson/lukes_changes/WBP_Mainmenu.uasset'
+[2025.09.04-21.20.46:011][651]LogFileHelpers: InternalPromptForCheckoutAndSave took 26.179 ms (total: 2.93 sec)
+[2025.09.04-21.20.46:114][651]LogUObjectHash: Compacting FUObjectHashTables data took   1.89ms
+[2025.09.04-21.20.46:157][651]LogUObjectHash: Compacting FUObjectHashTables data took   1.80ms
+[2025.09.04-21.20.46:193][651]LogUObjectHash: Compacting FUObjectHashTables data took   0.88ms
+[2025.09.04-21.20.46:345][651]LogContentValidation: Display: Starting to validate 1 assets
+[2025.09.04-21.20.46:345][651]LogContentValidation: Enabled validators:
+[2025.09.04-21.20.46:345][651]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.09.04-21.20.46:345][651]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.09.04-21.20.46:345][651]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.09.04-21.20.46:345][651]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.09.04-21.20.46:345][651]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.09.04-21.20.46:345][651]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.09.04-21.20.46:346][651]AssetCheck: /Game/FirstPerson/lukes_changes/WBP_Mainmenu Validating asset
+[2025.09.04-21.20.46:436][651]LogSourceControl: Display: Uncontrolled Changelist persistency file saved ../../../../../../Users/slynch/Documents/Unreal Projects/SpitRunner/SpitRunner/Saved/SourceControl/UncontrolledChangelists.json
+[2025.09.04-21.21.44:881][105]LogSlate: Window 'Color Picker' being destroyed
+[2025.09.04-21.21.49:966][215]LogSlate: Window 'Color Picker' being destroyed
+[2025.09.04-21.21.58:468][449]LogEditorTransaction: Undo Drag and Drop Widget
+[2025.09.04-21.23.34:355][ 72]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 6661.042480
+[2025.09.04-21.23.35:358][ 75]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.09.04-21.23.35:359][ 75]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 6661.707031, Update Interval: 357.112335
+[2025.09.04-21.24.07:841][211]LogStreaming: Display: FlushAsyncLoading(581): 1 QueuedPackages, 0 AsyncPackages
+[2025.09.04-21.24.08:352][211]LogInterchangeEngine: [Pending] Importing
+[2025.09.04-21.24.08:352][211]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/slynch/Pictures/Sprite-0001.png]
+[2025.09.04-21.24.08:597][213]LogStreaming: Display: FlushAsyncLoading(615): 1 QueuedPackages, 0 AsyncPackages
+[2025.09.04-21.24.08:600][214]LogCore: PNG has complex alpha channel, will not fill RGB in transparent background, due to setting PNGInfill == OnlyOnBinaryTransparency
+[2025.09.04-21.24.08:656][215]LogTexture: Display: Building textures: /Game/FirstPerson/lukes_changes/Sprite-0001.Sprite-0001 (TFO_AutoDXT, 192x128 x1x1x1) (Required Memory Estimate: 4.875 MB), EncodeSpeed: Fast
+[2025.09.04-21.24.08:721][215]LogInterchangeEngine: Display: Interchange import completed [C:/Users/slynch/Pictures/Sprite-0001.png]
+[2025.09.04-21.24.08:730][215]LogInterchangeEngine: [Pending] Importing - Operation completed.
+[2025.09.04-21.24.08:730][215]LogInterchangeEngine: [Success] Import Done
+[2025.09.04-21.24.33:706][645]LogAssetEditorSubsystem: Opening Asset editor for Texture2D /Game/FirstPerson/lukes_changes/Sprite-0001.Sprite-0001
+[2025.09.04-21.24.34:643][645]LogDeviceProfileManager: Display: Deviceprofile Android_ASTC not found.
+[2025.09.04-21.24.34:643][645]LogDeviceProfileManager: Display: Deviceprofile Android_DXT not found.
+[2025.09.04-21.24.34:643][645]LogDeviceProfileManager: Display: Deviceprofile Android_ETC2 not found.
+[2025.09.04-21.24.34:643][645]LogDeviceProfileManager: Display: Deviceprofile Android_Multi not found.
+[2025.09.04-21.24.42:909][785]LogTexture: Display: Building textures: /Game/FirstPerson/lukes_changes/Sprite-0001.Sprite-0001 (TFO_AutoDXT, 192x128 x1x1x1) (Required Memory Estimate: 4.875 MB), EncodeSpeed: Final
+[2025.09.04-21.24.54:883][963]LogTexture: Display: Building textures: /Game/FirstPerson/lukes_changes/Sprite-0001.Sprite-0001 (BGRA8, 192x128 x1x1x1) (Required Memory Estimate: 1.84375 MB), EncodeSpeed: Final
+[2025.09.04-21.24.57:323][  4]LogTexture: Display: Building textures: /Game/FirstPerson/lukes_changes/Sprite-0001.Sprite-0001 (TFO_AutoDXT, 192x128 x1x1x1) (Required Memory Estimate: 4.875 MB), EncodeSpeed: Final
+[2025.09.04-21.24.59:386][ 34]LogTexture: Display: Building textures: /Game/FirstPerson/lukes_changes/Sprite-0001.Sprite-0001 (G8, 192x128 x1x1x1) (Required Memory Estimate: 1.750 MB), EncodeSpeed: Final
+[2025.09.04-21.25.03:047][ 92]LogTexture: Display: Building textures: /Game/FirstPerson/lukes_changes/Sprite-0001.Sprite-0001 (R32F, 192x128 x1x1x1) (Required Memory Estimate: 1.84375 MB), EncodeSpeed: Final
+[2025.09.04-21.25.03:093][ 92]LogTexture: Display: 32 bit float texture changed to 16F because Filter is not Nearest and !bSupportFilteredFloat32Textures : /Game/FirstPerson/lukes_changes/Sprite-0001.Sprite-0001
+[2025.09.04-21.25.03:093][ 92]LogTexture: Display: 32 bit float texture changed to 16F because Filter is not Nearest and !bSupportFilteredFloat32Textures : /Game/FirstPerson/lukes_changes/Sprite-0001.Sprite-0001
+[2025.09.04-21.25.03:093][ 92]LogTexture: Display: 32 bit float texture changed to 16F because Filter is not Nearest and !bSupportFilteredFloat32Textures : /Game/FirstPerson/lukes_changes/Sprite-0001.Sprite-0001
+[2025.09.04-21.25.03:093][ 92]LogTexture: Display: 32 bit float texture changed to 16F because Filter is not Nearest and !bSupportFilteredFloat32Textures : /Game/FirstPerson/lukes_changes/Sprite-0001.Sprite-0001
+[2025.09.04-21.25.03:093][ 92]LogTexture: Display: 32 bit float texture changed to 16F because Filter is not Nearest and !bSupportFilteredFloat32Textures : /Game/FirstPerson/lukes_changes/Sprite-0001.Sprite-0001
+[2025.09.04-21.25.03:093][ 92]LogTexture: Display: 32 bit float texture changed to 16F because Filter is not Nearest and !bSupportFilteredFloat32Textures : /Game/FirstPerson/lukes_changes/Sprite-0001.Sprite-0001
+[2025.09.04-21.25.03:093][ 92]LogTexture: Display: 32 bit float texture changed to 16F because Filter is not Nearest and !bSupportFilteredFloat32Textures : /Game/FirstPerson/lukes_changes/Sprite-0001.Sprite-0001
+[2025.09.04-21.25.03:093][ 92]LogTexture: Display: 32 bit float texture changed to 16F because Filter is not Nearest and !bSupportFilteredFloat32Textures : /Game/FirstPerson/lukes_changes/Sprite-0001.Sprite-0001
+[2025.09.04-21.25.03:093][ 92]LogTexture: Display: 32 bit float texture changed to 16F because Filter is not Nearest and !bSupportFilteredFloat32Textures : /Game/FirstPerson/lukes_changes/Sprite-0001.Sprite-0001
+[2025.09.04-21.25.08:817][202]LogTexture: Display: Building textures: /Game/FirstPerson/lukes_changes/Sprite-0001.Sprite-0001 (R32F, 192x128 x1x1x1) (Required Memory Estimate: 1.84375 MB), EncodeSpeed: Final
+[2025.09.04-21.25.08:852][202]LogTexture: Display: 32 bit float texture changed to 16F because Filter is not Nearest and !bSupportFilteredFloat32Textures : /Game/FirstPerson/lukes_changes/Sprite-0001.Sprite-0001
+[2025.09.04-21.25.08:852][202]LogTexture: Display: 32 bit float texture changed to 16F because Filter is not Nearest and !bSupportFilteredFloat32Textures : /Game/FirstPerson/lukes_changes/Sprite-0001.Sprite-0001
+[2025.09.04-21.25.08:852][202]LogTexture: Display: 32 bit float texture changed to 16F because Filter is not Nearest and !bSupportFilteredFloat32Textures : /Game/FirstPerson/lukes_changes/Sprite-0001.Sprite-0001
+[2025.09.04-21.25.08:852][202]LogTexture: Display: 32 bit float texture changed to 16F because Filter is not Nearest and !bSupportFilteredFloat32Textures : /Game/FirstPerson/lukes_changes/Sprite-0001.Sprite-0001
+[2025.09.04-21.25.08:852][202]LogTexture: Display: 32 bit float texture changed to 16F because Filter is not Nearest and !bSupportFilteredFloat32Textures : /Game/FirstPerson/lukes_changes/Sprite-0001.Sprite-0001
+[2025.09.04-21.25.08:852][202]LogTexture: Display: 32 bit float texture changed to 16F because Filter is not Nearest and !bSupportFilteredFloat32Textures : /Game/FirstPerson/lukes_changes/Sprite-0001.Sprite-0001
+[2025.09.04-21.25.08:852][202]LogTexture: Display: 32 bit float texture changed to 16F because Filter is not Nearest and !bSupportFilteredFloat32Textures : /Game/FirstPerson/lukes_changes/Sprite-0001.Sprite-0001
+[2025.09.04-21.25.08:852][202]LogTexture: Display: 32 bit float texture changed to 16F because Filter is not Nearest and !bSupportFilteredFloat32Textures : /Game/FirstPerson/lukes_changes/Sprite-0001.Sprite-0001
+[2025.09.04-21.25.08:852][202]LogTexture: Display: 32 bit float texture changed to 16F because Filter is not Nearest and !bSupportFilteredFloat32Textures : /Game/FirstPerson/lukes_changes/Sprite-0001.Sprite-0001
+[2025.09.04-21.25.09:387][210]LogTexture: Display: 32 bit float texture changed to 16F because Filter is not Nearest and !bSupportFilteredFloat32Textures : /Game/FirstPerson/lukes_changes/Sprite-0001.Sprite-0001
+[2025.09.04-21.25.09:388][210]LogTexture: Display: 32 bit float texture changed to 16F because Filter is not Nearest and !bSupportFilteredFloat32Textures : /Game/FirstPerson/lukes_changes/Sprite-0001.Sprite-0001
+[2025.09.04-21.25.09:388][210]LogTexture: Display: 32 bit float texture changed to 16F because Filter is not Nearest and !bSupportFilteredFloat32Textures : /Game/FirstPerson/lukes_changes/Sprite-0001.Sprite-0001
+[2025.09.04-21.25.09:388][210]LogTexture: Display: 32 bit float texture changed to 16F because Filter is not Nearest and !bSupportFilteredFloat32Textures : /Game/FirstPerson/lukes_changes/Sprite-0001.Sprite-0001
+[2025.09.04-21.25.09:388][210]LogTexture: Display: 32 bit float texture changed to 16F because Filter is not Nearest and !bSupportFilteredFloat32Textures : /Game/FirstPerson/lukes_changes/Sprite-0001.Sprite-0001
+[2025.09.04-21.25.09:388][210]LogTexture: Display: 32 bit float texture changed to 16F because Filter is not Nearest and !bSupportFilteredFloat32Textures : /Game/FirstPerson/lukes_changes/Sprite-0001.Sprite-0001
+[2025.09.04-21.25.09:388][210]LogTexture: Display: 32 bit float texture changed to 16F because Filter is not Nearest and !bSupportFilteredFloat32Textures : /Game/FirstPerson/lukes_changes/Sprite-0001.Sprite-0001
+[2025.09.04-21.25.09:388][210]LogTexture: Display: 32 bit float texture changed to 16F because Filter is not Nearest and !bSupportFilteredFloat32Textures : /Game/FirstPerson/lukes_changes/Sprite-0001.Sprite-0001
+[2025.09.04-21.25.09:388][210]LogTexture: Display: 32 bit float texture changed to 16F because Filter is not Nearest and !bSupportFilteredFloat32Textures : /Game/FirstPerson/lukes_changes/Sprite-0001.Sprite-0001
+[2025.09.04-21.25.13:212][280]LogTexture: Display: Building textures: /Game/FirstPerson/lukes_changes/Sprite-0001.Sprite-0001 (R32F, 192x128 x1x1x1) (Required Memory Estimate: 1.84375 MB), EncodeSpeed: Final
+[2025.09.04-21.25.13:251][280]LogTexture: Display: 32 bit float texture changed to 16F because Filter is not Nearest and !bSupportFilteredFloat32Textures : /Game/FirstPerson/lukes_changes/Sprite-0001.Sprite-0001
+[2025.09.04-21.25.13:251][280]LogTexture: Display: 32 bit float texture changed to 16F because Filter is not Nearest and !bSupportFilteredFloat32Textures : /Game/FirstPerson/lukes_changes/Sprite-0001.Sprite-0001
+[2025.09.04-21.25.13:251][280]LogTexture: Display: 32 bit float texture changed to 16F because Filter is not Nearest and !bSupportFilteredFloat32Textures : /Game/FirstPerson/lukes_changes/Sprite-0001.Sprite-0001
+[2025.09.04-21.25.13:251][280]LogTexture: Display: 32 bit float texture changed to 16F because Filter is not Nearest and !bSupportFilteredFloat32Textures : /Game/FirstPerson/lukes_changes/Sprite-0001.Sprite-0001
+[2025.09.04-21.25.13:251][280]LogTexture: Display: 32 bit float texture changed to 16F because Filter is not Nearest and !bSupportFilteredFloat32Textures : /Game/FirstPerson/lukes_changes/Sprite-0001.Sprite-0001
+[2025.09.04-21.25.13:251][280]LogTexture: Display: 32 bit float texture changed to 16F because Filter is not Nearest and !bSupportFilteredFloat32Textures : /Game/FirstPerson/lukes_changes/Sprite-0001.Sprite-0001
+[2025.09.04-21.25.13:251][280]LogTexture: Display: 32 bit float texture changed to 16F because Filter is not Nearest and !bSupportFilteredFloat32Textures : /Game/FirstPerson/lukes_changes/Sprite-0001.Sprite-0001
+[2025.09.04-21.25.13:251][280]LogTexture: Display: 32 bit float texture changed to 16F because Filter is not Nearest and !bSupportFilteredFloat32Textures : /Game/FirstPerson/lukes_changes/Sprite-0001.Sprite-0001
+[2025.09.04-21.25.13:251][280]LogTexture: Display: 32 bit float texture changed to 16F because Filter is not Nearest and !bSupportFilteredFloat32Textures : /Game/FirstPerson/lukes_changes/Sprite-0001.Sprite-0001
+[2025.09.04-21.25.13:851][289]LogTexture: Display: 32 bit float texture changed to 16F because Filter is not Nearest and !bSupportFilteredFloat32Textures : /Game/FirstPerson/lukes_changes/Sprite-0001.Sprite-0001
+[2025.09.04-21.25.13:851][289]LogTexture: Display: 32 bit float texture changed to 16F because Filter is not Nearest and !bSupportFilteredFloat32Textures : /Game/FirstPerson/lukes_changes/Sprite-0001.Sprite-0001
+[2025.09.04-21.25.13:851][289]LogTexture: Display: 32 bit float texture changed to 16F because Filter is not Nearest and !bSupportFilteredFloat32Textures : /Game/FirstPerson/lukes_changes/Sprite-0001.Sprite-0001
+[2025.09.04-21.25.13:852][289]LogTexture: Display: 32 bit float texture changed to 16F because Filter is not Nearest and !bSupportFilteredFloat32Textures : /Game/FirstPerson/lukes_changes/Sprite-0001.Sprite-0001
+[2025.09.04-21.25.13:852][289]LogTexture: Display: 32 bit float texture changed to 16F because Filter is not Nearest and !bSupportFilteredFloat32Textures : /Game/FirstPerson/lukes_changes/Sprite-0001.Sprite-0001
+[2025.09.04-21.25.13:852][289]LogTexture: Display: 32 bit float texture changed to 16F because Filter is not Nearest and !bSupportFilteredFloat32Textures : /Game/FirstPerson/lukes_changes/Sprite-0001.Sprite-0001
+[2025.09.04-21.25.13:852][289]LogTexture: Display: 32 bit float texture changed to 16F because Filter is not Nearest and !bSupportFilteredFloat32Textures : /Game/FirstPerson/lukes_changes/Sprite-0001.Sprite-0001
+[2025.09.04-21.25.13:852][289]LogTexture: Display: 32 bit float texture changed to 16F because Filter is not Nearest and !bSupportFilteredFloat32Textures : /Game/FirstPerson/lukes_changes/Sprite-0001.Sprite-0001
+[2025.09.04-21.25.13:852][289]LogTexture: Display: 32 bit float texture changed to 16F because Filter is not Nearest and !bSupportFilteredFloat32Textures : /Game/FirstPerson/lukes_changes/Sprite-0001.Sprite-0001
+[2025.09.04-21.25.36:073][711]LogUObjectHash: Compacting FUObjectHashTables data took   1.96ms
+[2025.09.04-21.25.41:560][812]LogPSOHitching: Encountered 1300 PSO creation hitches so far (553 graphics, 747 compute). 0 of them were precached.
+[2025.09.04-21.25.46:616][916]LogAssetEditorSubsystem: Opening Asset editor for LevelScriptBlueprint /Game/FirstPerson/lukes_changes/MainMenu.MainMenu:PersistentLevel.MainMenu
+[2025.09.04-21.25.46:616][916]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_11
+[2025.09.04-21.26.39:981][730]LogBlueprint: Error: [AssetLog] C:\Users\slynch\Documents\Unreal Projects\SpitRunner\SpitRunner\Content\FirstPerson\lukes_changes\MainMenu.umap: [Compiler] The type of  Object  is undetermined.  Connect something to  Cast To WBP_Mainmenu  to imply a specific type.
+[2025.09.04-21.26.39:981][730]LogBlueprint: Error: [AssetLog] C:\Users\slynch\Documents\Unreal Projects\SpitRunner\SpitRunner\Content\FirstPerson\lukes_changes\MainMenu.umap: [Compiler] The current value of the ' Object ' pin is invalid: Unsupported type Object Wildcard on pin Object
+[2025.09.04-21.26.40:043][730]LogUObjectHash: Compacting FUObjectHashTables data took   1.84ms
+[2025.09.04-21.26.50:497][896]LogBlueprint: Warning: [AssetLog] C:\Users\slynch\Documents\Unreal Projects\SpitRunner\SpitRunner\Content\FirstPerson\lukes_changes\MainMenu.umap: [Compiler] 'WBP Mainmenu' does not inherit from 'Main Menu' ( Cast To WBP_Mainmenu  would always fail).
+[2025.09.04-21.26.50:560][896]LogUObjectHash: Compacting FUObjectHashTables data took   1.82ms
+[2025.09.04-21.27.46:517][131]LogWindows: LaunchFileInExternalEditor C:/Program Files/Epic Games/UE_5.6/Engine/Source/Runtime/UMG/Public/Components/Image.h 
+[2025.09.04-21.27.55:458][131]LogWindows: Launch application code for C:/Program Files/Epic Games/UE_5.6/Engine/Source/Runtime/UMG/Public/Components/Image.h : 42
+[2025.09.04-21.27.55:458][131]LogVSAccessor: Warning: Couldn't access Visual Studio
+[2025.09.04-21.27.55:469][131]LogVSAccessor: Warning: Couldn't access module table
+[2025.09.04-21.27.55:469][131]LogVSAccessor: Warning: Couldn't access module table
+[2025.09.04-21.27.55:469][131]LogVSAccessor: Warning: Couldn't access module table
+[2025.09.04-21.27.55:469][131]LogVSAccessor: Warning: Couldn't access module table
+[2025.09.04-21.27.55:469][131]LogVSAccessor: Warning: Couldn't access module table
+[2025.09.04-21.27.55:469][131]LogVSAccessor: Warning: Couldn't access module table
+[2025.09.04-21.27.55:469][131]LogVSAccessor: Warning: Couldn't access module table
+[2025.09.04-21.27.55:469][131]LogVSAccessor: Warning: Couldn't access module table
+[2025.09.04-21.27.55:469][131]LogVSAccessor: Warning: Couldn't access module table
+[2025.09.04-21.27.55:470][131]LogVSAccessor: Warning: Couldn't access module table
+[2025.09.04-21.27.55:470][131]LogVSAccessor: Warning: Couldn't access module table
+[2025.09.04-21.27.55:470][131]LogVSAccessor: Warning: Couldn't access module table
+[2025.09.04-21.27.55:470][131]LogVSAccessor: Warning: Couldn't access module table
+[2025.09.04-21.27.55:470][131]LogVSAccessor: Warning: Couldn't access module table
+[2025.09.04-21.27.55:470][131]LogVSAccessor: Warning: Couldn't access module table
+[2025.09.04-21.27.55:470][131]LogVSAccessor: Warning: Couldn't access module table
+[2025.09.04-21.27.55:470][131]LogVSAccessor: Warning: Couldn't access module table
+[2025.09.04-21.27.55:470][131]LogVSAccessor: Warning: Couldn't access module table
+[2025.09.04-21.27.55:471][131]LogVSAccessor: Warning: Couldn't access module table
+[2025.09.04-21.27.55:471][131]LogVSAccessor: Warning: Couldn't access module table
+[2025.09.04-21.27.55:471][131]LogVSAccessor: Warning: Couldn't access module table
+[2025.09.04-21.27.55:471][131]LogVSAccessor: Warning: Couldn't access module table
+[2025.09.04-21.27.55:471][131]LogVSAccessor: Warning: Couldn't access module table
+[2025.09.04-21.27.55:471][131]LogVSAccessor: Warning: Couldn't access module table
+[2025.09.04-21.27.55:471][131]LogVSAccessor: Warning: Couldn't access module table
+[2025.09.04-21.27.55:471][131]LogVSAccessor: Warning: Couldn't access module table
+[2025.09.04-21.27.55:471][131]LogVSAccessor: Warning: Couldn't access module table
+[2025.09.04-21.27.55:472][131]LogVSAccessor: Warning: Couldn't access module table
+[2025.09.04-21.27.55:472][131]LogVSAccessor: Warning: Couldn't access module table
+[2025.09.04-21.27.55:472][131]LogVSAccessor: Warning: Couldn't access module table
+[2025.09.04-21.27.55:472][131]LogVSAccessor: Warning: Couldn't access module table
+[2025.09.04-21.27.55:472][131]LogVSAccessor: Warning: Couldn't access module table
+[2025.09.04-21.27.55:472][131]LogVSAccessor: Warning: Couldn't access module table
+[2025.09.04-21.27.55:472][131]LogVSAccessor: Warning: Couldn't access module table
+[2025.09.04-21.27.55:472][131]LogVSAccessor: Warning: Couldn't access module table
+[2025.09.04-21.27.55:472][131]LogVSAccessor: Warning: Couldn't access module table
+[2025.09.04-21.27.55:472][131]LogVSAccessor: Warning: Couldn't access module table
+[2025.09.04-21.27.55:473][131]LogVSAccessor: Warning: Couldn't access module table
+[2025.09.04-21.27.55:473][131]LogVSAccessor: Warning: Couldn't access module table
+[2025.09.04-21.27.55:473][131]LogVSAccessor: Warning: Couldn't access module table
+[2025.09.04-21.27.55:473][131]LogVSAccessor: Warning: Couldn't access module table
+[2025.09.04-21.27.55:473][131]LogVSAccessor: Warning: Couldn't access module table
+[2025.09.04-21.27.55:473][131]LogVSAccessor: Warning: Couldn't access module table
+[2025.09.04-21.27.55:473][131]LogVSAccessor: Warning: Couldn't access module table
+[2025.09.04-21.27.55:473][131]LogVSAccessor: Warning: Couldn't access module table
+[2025.09.04-21.27.55:473][131]LogVSAccessor: Warning: Couldn't access module table
+[2025.09.04-21.27.55:474][131]LogVSAccessor: Warning: Couldn't access module table
+[2025.09.04-21.27.55:474][131]LogVSAccessor: Warning: Couldn't access module table
+[2025.09.04-21.27.55:474][131]LogVSAccessor: Warning: Couldn't access module table
+[2025.09.04-21.27.55:474][131]LogVSAccessor: Warning: Couldn't access module table
+[2025.09.04-21.27.55:474][131]LogVSAccessor: Warning: Couldn't access module table
+[2025.09.04-21.27.55:474][131]LogVSAccessor: Warning: Couldn't access module table
+[2025.09.04-21.27.55:474][131]LogVSAccessor: Warning: Couldn't access module table
+[2025.09.04-21.27.55:474][131]LogVSAccessor: Warning: Couldn't access module table
+[2025.09.04-21.27.55:474][131]LogVSAccessor: Warning: Couldn't access module table
+[2025.09.04-21.27.55:475][131]LogVSAccessor: Warning: Couldn't access module table
+[2025.09.04-21.27.55:475][131]LogVSAccessor: Warning: Couldn't access module table
+[2025.09.04-21.27.55:475][131]LogVSAccessor: Warning: Couldn't access module table
+[2025.09.04-21.27.55:475][131]LogVSAccessor: Warning: Couldn't access module table
+[2025.09.04-21.27.55:475][131]LogVSAccessor: Warning: Couldn't access module table
+[2025.09.04-21.27.55:475][131]LogVSAccessor: Warning: Couldn't access module table
+[2025.09.04-21.27.55:475][131]LogVSAccessor: Warning: Couldn't access module table
+[2025.09.04-21.27.55:475][131]LogVSAccessor: Warning: Couldn't access module table
+[2025.09.04-21.27.55:475][131]LogVSAccessor: Warning: Couldn't access module table
+[2025.09.04-21.27.55:475][131]LogVSAccessor: Warning: Couldn't access module table
+[2025.09.04-21.27.55:475][131]LogVSAccessor: Warning: Couldn't access module table
+[2025.09.04-21.27.55:475][131]LogVSAccessor: Warning: Couldn't access module table
+[2025.09.04-21.27.55:475][131]LogVSAccessor: Warning: Couldn't access module table
+[2025.09.04-21.27.55:475][131]LogVSAccessor: Warning: Couldn't access module table
+[2025.09.04-21.27.55:477][131]LogVSAccessor: Warning: Couldn't access module table
+[2025.09.04-21.27.55:477][131]LogVSAccessor: Warning: Couldn't access module table
+[2025.09.04-21.27.55:477][131]LogVSAccessor: Warning: Couldn't access module table
+[2025.09.04-21.27.55:477][131]LogVSAccessor: Warning: Couldn't access module table
+[2025.09.04-21.27.55:477][131]LogVSAccessor: Warning: Couldn't access module table
+[2025.09.04-21.27.55:477][131]LogVSAccessor: Warning: Couldn't access module table
+[2025.09.04-21.27.55:477][131]LogVSAccessor: Warning: Couldn't access module table
+[2025.09.04-21.27.55:477][131]LogVSAccessor: Warning: Couldn't access module table
+[2025.09.04-21.27.55:477][131]LogVSAccessor: Warning: Couldn't access module table
+[2025.09.04-21.27.55:477][131]LogVSAccessor: Warning: Couldn't access module table
+[2025.09.04-21.27.55:478][131]LogVSAccessor: Warning: Couldn't access module table
+[2025.09.04-21.27.55:478][131]LogVSAccessor: Warning: Couldn't access module table
+[2025.09.04-21.27.55:478][131]LogVSAccessor: Warning: Couldn't access module table
+[2025.09.04-21.27.55:478][131]LogVSAccessor: Warning: Couldn't access module table
+[2025.09.04-21.27.55:478][131]LogVSAccessor: Warning: Couldn't access module table
+[2025.09.04-21.27.55:478][131]LogVSAccessor: Warning: Couldn't access module table
+[2025.09.04-21.27.55:478][131]LogVSAccessor: Warning: Couldn't access module table
+[2025.09.04-21.27.55:478][131]LogVSAccessor: Warning: Couldn't access module table
+[2025.09.04-21.27.55:478][131]LogVSAccessor: Warning: Couldn't access module table
+[2025.09.04-21.27.55:479][131]LogVSAccessor: Warning: Couldn't access module table
+[2025.09.04-21.27.55:479][131]LogVSAccessor: Warning: Couldn't access module table
+[2025.09.04-21.27.55:479][131]LogVSAccessor: Warning: Couldn't access module table
+[2025.09.04-21.27.55:479][131]LogVSAccessor: Warning: Couldn't access module table
+[2025.09.04-21.27.55:479][131]LogVSAccessor: Warning: Couldn't access module table
+[2025.09.04-21.27.55:479][131]LogVSAccessor: Warning: Couldn't access module table
+[2025.09.04-21.27.55:479][131]LogVSAccessor: Warning: Couldn't access module table
+[2025.09.04-21.27.55:479][131]LogVSAccessor: Warning: Couldn't access module table
+[2025.09.04-21.27.55:479][131]LogVSAccessor: Warning: Couldn't access module table
+[2025.09.04-21.27.55:479][131]LogVSAccessor: Warning: Couldn't access module table
+[2025.09.04-21.27.55:480][131]LogVSAccessor: Warning: Couldn't access module table
+[2025.09.04-21.27.55:480][131]LogVSAccessor: Warning: Couldn't access module table
+[2025.09.04-21.27.55:480][131]LogVSAccessor: Warning: Couldn't access module table
+[2025.09.04-21.27.55:480][131]LogVSAccessor: Warning: Couldn't access module table
+[2025.09.04-21.27.55:480][131]LogVSAccessor: Warning: Couldn't access module table
+[2025.09.04-21.27.55:480][131]LogVSAccessor: Warning: Couldn't access module table
+[2025.09.04-21.27.55:480][131]LogVSAccessor: Warning: Couldn't access module table
+[2025.09.04-21.27.55:480][131]LogVSAccessor: Warning: Couldn't access module table
+[2025.09.04-21.27.55:480][131]LogVSAccessor: Warning: Couldn't access module table
+[2025.09.04-21.27.55:481][131]LogVSAccessor: Warning: Couldn't access module table
+[2025.09.04-21.27.55:481][131]LogVSAccessor: Warning: Couldn't access module table
+[2025.09.04-21.27.55:481][131]LogVSAccessor: Warning: Couldn't access module table
+[2025.09.04-21.27.55:481][131]LogVSAccessor: Warning: Couldn't access module table
+[2025.09.04-21.27.55:481][131]LogVSAccessor: Warning: Couldn't access module table
+[2025.09.04-21.27.55:481][131]LogVSAccessor: Warning: Couldn't access module table
+[2025.09.04-21.27.55:481][131]LogVSAccessor: Warning: Couldn't access module table
+[2025.09.04-21.27.55:481][131]LogVSAccessor: Warning: Couldn't access module table
+[2025.09.04-21.27.55:481][131]LogVSAccessor: Warning: Couldn't access module table
+[2025.09.04-21.27.55:492][131]LogVSAccessor: Warning: Couldn't access module table
+[2025.09.04-21.27.55:493][131]LogVSAccessor: Warning: Couldn't access module table
+[2025.09.04-21.27.55:493][131]LogVSAccessor: Warning: Couldn't access module table
+[2025.09.04-21.27.55:497][131]LogVSAccessor: Warning: Couldn't access module table
+[2025.09.04-21.27.55:516][131]LogVSAccessor: Warning: Couldn't access module table
+[2025.09.04-21.27.55:518][131]LogVSAccessor: Warning: Couldn't access module table
+[2025.09.04-21.27.55:553][131]LogVSAccessor: Warning: Couldn't access module table
+[2025.09.04-21.27.55:561][131]LogVSAccessor: Warning: Couldn't access module table
+[2025.09.04-21.27.55:569][131]LogVSAccessor: Warning: Couldn't access module table
+[2025.09.04-21.27.55:570][131]LogVSAccessor: Warning: Couldn't access module table
+[2025.09.04-21.27.55:570][131]LogVSAccessor: Warning: Couldn't access module table
+[2025.09.04-21.27.55:570][131]LogVSAccessor: Warning: Couldn't access module table
+[2025.09.04-21.27.55:570][131]LogVSAccessor: Warning: Couldn't access module table
+[2025.09.04-21.27.55:577][131]LogVSAccessor: Warning: Couldn't access module table
+[2025.09.04-21.27.55:608][131]LogVSAccessor: Warning: Couldn't access module table
+[2025.09.04-21.27.55:632][131]LogVSAccessor: Warning: Couldn't access module table
+[2025.09.04-21.27.55:804][131]LogVSAccessor: Warning: Couldn't access module table
+[2025.09.04-21.27.55:804][131]LogVSAccessor: Warning: Couldn't access module table
+[2025.09.04-21.27.55:804][131]LogVSAccessor: Warning: Couldn't access module table
+[2025.09.04-21.27.55:804][131]LogVSAccessor: Warning: Couldn't access module table
+[2025.09.04-21.27.55:804][131]LogVSAccessor: Warning: Couldn't access module table
+[2025.09.04-21.27.55:804][131]LogVSAccessor: Warning: Couldn't access module table
+[2025.09.04-21.27.55:804][131]LogVSAccessor: Warning: Couldn't access module table
+[2025.09.04-21.27.55:804][131]LogVSAccessor: Warning: Couldn't access module table
+[2025.09.04-21.27.55:804][131]LogVSAccessor: Warning: Couldn't access module table
+[2025.09.04-21.27.55:804][131]LogVSAccessor: Warning: Couldn't access module table
+[2025.09.04-21.27.55:804][131]LogVSAccessor: Warning: Couldn't access module table
+[2025.09.04-21.27.55:805][131]LogVSAccessor: Warning: Couldn't access module table
+[2025.09.04-21.27.55:805][131]LogVSAccessor: Warning: Couldn't access module table
+[2025.09.04-21.27.55:805][131]LogVSAccessor: Warning: Couldn't access module table
+[2025.09.04-21.27.55:805][131]LogVSAccessor: Warning: Couldn't access module table
+[2025.09.04-21.27.55:805][131]LogVSAccessor: Warning: Couldn't access module table
+[2025.09.04-21.27.55:805][131]LogVSAccessor: Warning: Couldn't access module table
+[2025.09.04-21.27.55:805][131]LogVSAccessor: Warning: Couldn't access module table
+[2025.09.04-21.27.55:805][131]LogVSAccessor: Warning: Couldn't access module table
+[2025.09.04-21.27.55:805][131]LogVSAccessor: Warning: Couldn't access module table
+[2025.09.04-21.27.55:805][131]LogVSAccessor: Warning: Couldn't access module table
+[2025.09.04-21.27.55:805][131]LogVSAccessor: Warning: Couldn't access module table
+[2025.09.04-21.27.55:805][131]LogVSAccessor: Warning: Couldn't access module table
+[2025.09.04-21.27.55:805][131]LogVSAccessor: Warning: Couldn't access module table
+[2025.09.04-21.27.55:805][131]LogVSAccessor: Warning: Couldn't access module table
+[2025.09.04-21.27.55:807][131]LogVSAccessor: Warning: Couldn't access module table
+[2025.09.04-21.27.55:807][131]LogVSAccessor: Warning: Couldn't access module table
+[2025.09.04-21.27.55:807][131]LogVSAccessor: Warning: Couldn't access module table
+[2025.09.04-21.27.55:807][131]LogVSAccessor: Warning: Couldn't access module table
+[2025.09.04-21.27.55:807][131]LogVSAccessor: Warning: Couldn't access module table
+[2025.09.04-21.27.55:807][131]LogVSAccessor: Warning: Couldn't access module table
+[2025.09.04-21.27.55:807][131]LogVSAccessor: Warning: Couldn't access module table
+[2025.09.04-21.27.55:807][131]LogVSAccessor: Warning: Couldn't access module table
+[2025.09.04-21.27.55:807][131]LogVSAccessor: Warning: Couldn't access module table
+[2025.09.04-21.27.55:807][131]LogVSAccessor: Warning: Couldn't access module table
+[2025.09.04-21.27.55:808][131]LogVSAccessor: Warning: Couldn't access module table
+[2025.09.04-21.27.55:808][131]LogVSAccessor: Warning: Couldn't access module table
+[2025.09.04-21.27.55:808][131]LogVSAccessor: Warning: Couldn't access module table
+[2025.09.04-21.27.55:808][131]LogVSAccessor: Warning: Couldn't access module table
+[2025.09.04-21.27.55:808][131]LogVSAccessor: Warning: Couldn't access module table
+[2025.09.04-21.27.55:808][131]LogVSAccessor: Warning: Couldn't access module table
+[2025.09.04-21.27.55:808][131]LogVSAccessor: Warning: Couldn't access module table
+[2025.09.04-21.27.55:808][131]LogVSAccessor: Warning: Couldn't access module table
+[2025.09.04-21.27.55:808][131]LogVSAccessor: Warning: Couldn't access module table
+[2025.09.04-21.27.55:809][131]LogVSAccessor: Warning: Couldn't access module table
+[2025.09.04-21.27.55:809][131]LogVSAccessor: Warning: Couldn't access module table
+[2025.09.04-21.27.55:809][131]LogVSAccessor: Warning: Couldn't access module table
+[2025.09.04-21.27.55:809][131]LogVSAccessor: Warning: Couldn't access module table
+[2025.09.04-21.27.55:809][131]LogVSAccessor: Warning: Couldn't access module table
+[2025.09.04-21.27.55:809][131]LogVSAccessor: Warning: Couldn't access module table
+[2025.09.04-21.27.55:809][131]LogVSAccessor: Warning: Couldn't access module table
+[2025.09.04-21.27.55:809][131]LogVSAccessor: Warning: Couldn't access module table
+[2025.09.04-21.27.55:809][131]LogVSAccessor: Warning: Couldn't access module table
+[2025.09.04-21.27.55:810][131]LogVSAccessor: Warning: Couldn't access module table
+[2025.09.04-21.27.55:810][131]LogVSAccessor: Warning: Couldn't access module table
+[2025.09.04-21.27.55:810][131]LogVSAccessor: Warning: Couldn't access module table
+[2025.09.04-21.27.55:810][131]LogVSAccessor: Warning: Couldn't access module table
+[2025.09.04-21.27.55:810][131]LogVSAccessor: Warning: Couldn't access module table
+[2025.09.04-21.27.55:810][131]LogVSAccessor: Warning: Couldn't access module table
+[2025.09.04-21.27.55:810][131]LogVSAccessor: Warning: Couldn't access module table
+[2025.09.04-21.27.55:810][131]LogVSAccessor: Warning: Couldn't access module table
+[2025.09.04-21.27.55:810][131]LogVSAccessor: Warning: Couldn't access module table
+[2025.09.04-21.27.55:811][131]LogVSAccessor: Warning: Couldn't access module table
+[2025.09.04-21.27.55:811][131]LogVSAccessor: Warning: Couldn't access module table
+[2025.09.04-21.27.55:811][131]LogVSAccessor: Warning: Couldn't access module table
+[2025.09.04-21.27.55:811][131]LogVSAccessor: Warning: Couldn't access module table
+[2025.09.04-21.27.55:811][131]LogVSAccessor: Warning: Couldn't access module table
+[2025.09.04-21.27.55:811][131]LogVSAccessor: Warning: Couldn't access module table
+[2025.09.04-21.27.55:811][131]LogVSAccessor: Warning: Couldn't access module table
+[2025.09.04-21.27.55:811][131]LogVSAccessor: Warning: Couldn't access module table
+[2025.09.04-21.27.55:811][131]LogVSAccessor: Warning: Couldn't access module table
+[2025.09.04-21.27.55:812][131]LogVSAccessor: Warning: Couldn't access module table
+[2025.09.04-21.27.55:812][131]LogVSAccessor: Warning: Couldn't access module table
+[2025.09.04-21.27.55:812][131]LogVSAccessor: Warning: Couldn't access module table
+[2025.09.04-21.27.55:812][131]LogVSAccessor: Warning: Couldn't access module table
+[2025.09.04-21.27.55:812][131]LogVSAccessor: Warning: Couldn't access module table
+[2025.09.04-21.27.55:812][131]LogVSAccessor: Warning: Couldn't access module table
+[2025.09.04-21.27.55:812][131]LogVSAccessor: Warning: Couldn't access module table
+[2025.09.04-21.27.55:812][131]LogVSAccessor: Warning: Couldn't access module table
+[2025.09.04-21.27.55:812][131]LogVSAccessor: Warning: Couldn't access module table
+[2025.09.04-21.27.55:812][131]LogVSAccessor: Warning: Couldn't access module table
+[2025.09.04-21.27.55:812][131]LogVSAccessor: Warning: Couldn't access module table
+[2025.09.04-21.27.55:812][131]LogVSAccessor: Warning: Couldn't access module table
+[2025.09.04-21.27.55:812][131]LogVSAccessor: Warning: Couldn't access module table
+[2025.09.04-21.27.55:812][131]LogVSAccessor: Warning: Couldn't access module table
+[2025.09.04-21.27.55:813][131]LogVSAccessor: Warning: Couldn't access module table
+[2025.09.04-21.27.55:813][131]LogVSAccessor: Warning: Couldn't access module table
+[2025.09.04-21.27.55:813][131]LogVSAccessor: Warning: Couldn't access module table
+[2025.09.04-21.27.55:813][131]LogVSAccessor: Warning: Couldn't access module table
+[2025.09.04-21.27.55:813][131]LogVSAccessor: Warning: Couldn't access module table
+[2025.09.04-21.27.55:813][131]LogVSAccessor: Warning: Couldn't access module table
+[2025.09.04-21.27.55:813][131]LogVSAccessor: Warning: Couldn't access module table
+[2025.09.04-21.27.55:813][131]LogVSAccessor: Warning: Couldn't access module table
+[2025.09.04-21.27.55:813][131]LogVSAccessor: Warning: Couldn't access module table
+[2025.09.04-21.27.55:813][131]LogVSAccessor: Warning: Couldn't access module table
+[2025.09.04-21.27.55:814][131]LogVSAccessor: Warning: Couldn't access module table
+[2025.09.04-21.27.55:814][131]LogVSAccessor: Warning: Couldn't access module table
+[2025.09.04-21.27.55:814][131]LogVSAccessor: Warning: Couldn't access module table
+[2025.09.04-21.27.55:814][131]LogVSAccessor: Warning: Couldn't access module table
+[2025.09.04-21.27.55:814][131]LogVSAccessor: Warning: Couldn't access module table
+[2025.09.04-21.27.55:814][131]LogVSAccessor: Warning: Couldn't access module table
+[2025.09.04-21.27.55:814][131]LogVSAccessor: Warning: Couldn't access module table
+[2025.09.04-21.27.55:814][131]LogVSAccessor: Warning: Couldn't access module table
+[2025.09.04-21.27.55:814][131]LogVSAccessor: Warning: Couldn't access module table
+[2025.09.04-21.27.55:815][131]LogVSAccessor: Warning: Couldn't access module table
+[2025.09.04-21.27.55:815][131]LogVSAccessor: Warning: Couldn't access module table
+[2025.09.04-21.27.55:815][131]LogVSAccessor: Warning: Couldn't access module table
+[2025.09.04-21.27.55:815][131]LogVSAccessor: Warning: Couldn't access module table
+[2025.09.04-21.27.55:815][131]LogVSAccessor: Warning: Couldn't access module table
+[2025.09.04-21.27.55:815][131]LogVSAccessor: Warning: Couldn't access module table
+[2025.09.04-21.27.55:815][131]LogVSAccessor: Warning: Couldn't access module table
+[2025.09.04-21.27.55:815][131]LogVSAccessor: Warning: Couldn't access module table
+[2025.09.04-21.27.55:815][131]LogVSAccessor: Warning: Couldn't access module table
+[2025.09.04-21.27.55:815][131]LogVSAccessor: Warning: Couldn't access module table
+[2025.09.04-21.27.55:815][131]LogVSAccessor: Warning: Couldn't access module table
+[2025.09.04-21.27.55:815][131]LogVSAccessor: Warning: Couldn't access module table
+[2025.09.04-21.27.55:827][131]LogVSAccessor: Warning: Couldn't access module table
+[2025.09.04-21.27.55:828][131]LogVSAccessor: Warning: Couldn't access module table
+[2025.09.04-21.27.55:829][131]LogVSAccessor: Warning: Couldn't access module table
+[2025.09.04-21.27.55:832][131]LogVSAccessor: Warning: Couldn't access module table
+[2025.09.04-21.27.55:856][131]LogVSAccessor: Warning: Couldn't access module table
+[2025.09.04-21.27.55:857][131]LogVSAccessor: Warning: Couldn't access module table
+[2025.09.04-21.27.55:883][131]LogVSAccessor: Warning: Couldn't access module table
+[2025.09.04-21.27.55:892][131]LogVSAccessor: Warning: Couldn't access module table
+[2025.09.04-21.27.55:901][131]LogVSAccessor: Warning: Couldn't access module table
+[2025.09.04-21.27.55:901][131]LogVSAccessor: Warning: Couldn't access module table
+[2025.09.04-21.27.55:901][131]LogVSAccessor: Warning: Couldn't access module table
+[2025.09.04-21.27.55:901][131]LogVSAccessor: Warning: Couldn't access module table
+[2025.09.04-21.27.55:901][131]LogVSAccessor: Warning: Couldn't access module table
+[2025.09.04-21.27.55:909][131]LogVSAccessor: Warning: Couldn't access module table
+[2025.09.04-21.27.55:941][131]LogVSAccessor: Warning: Couldn't access module table
+[2025.09.04-21.27.55:964][131]LogVSAccessor: Warning: Couldn't access module table
+[2025.09.04-21.29.15:462][641]LogUObjectHash: Compacting FUObjectHashTables data took   1.81ms
+[2025.09.04-21.30.04:588][864]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 7051.161133
+[2025.09.04-21.30.04:788][868]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.09.04-21.30.04:788][868]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 7051.310547, Update Interval: 331.086761
+[2025.09.04-21.30.20:280][207]LogBlueprint: Error: [AssetLog] C:\Users\slynch\Documents\Unreal Projects\SpitRunner\SpitRunner\Content\FirstPerson\lukes_changes\WBP_Mainmenu.uasset: [Compiler] Binding: Property ' /Script/UMG.Image:OnMouseButtonDownEvent ' on Widget ' Image_3 ': Unknown Error
+[2025.09.04-21.30.20:344][207]LogUObjectHash: Compacting FUObjectHashTables data took   1.91ms
+[2025.09.04-21.30.29:569][454]LogBlueprint: Error: [AssetLog] C:\Users\slynch\Documents\Unreal Projects\SpitRunner\SpitRunner\Content\FirstPerson\lukes_changes\WBP_Mainmenu.uasset: [Compiler] Binding: Property ' /Script/UMG.Image:OnMouseButtonDownEvent ' on Widget ' Image_3 ': Unknown Error
+[2025.09.04-21.30.29:605][454]LogUObjectHash: Compacting FUObjectHashTables data took   1.89ms
+[2025.09.04-21.31.33:978][516]LogUObjectHash: Compacting FUObjectHashTables data took   1.92ms
+[2025.09.04-21.31.33:998][516]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/FirstPerson/lukes_changes/MainMenu_Auto5
+[2025.09.04-21.31.33:998][516]LogSavePackage: Moving '../../../../../../Users/slynch/Documents/Unreal Projects/SpitRunner/SpitRunner/Saved/MainMenu_Auto59AC8400E40A9BC64C7BE598192B3F242.tmp' to '../../../../../../Users/slynch/Documents/Unreal Projects/SpitRunner/SpitRunner/Saved/Autosaves/Game/FirstPerson/lukes_changes/MainMenu_Auto5.umap'
+[2025.09.04-21.31.33:999][516]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/FirstPerson/lukes_changes/MainMenu' took 0.081
+[2025.09.04-21.31.33:999][516]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.081
+[2025.09.04-21.31.34:000][516]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/FirstPerson/lukes_changes/WBP_Mainmenu] ([2] browsable assets)...
+[2025.09.04-21.31.34:005][516]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/FirstPerson/lukes_changes/WBP_Mainmenu.WBP_Mainmenu]
+[2025.09.04-21.31.34:005][516]OBJ SavePackage: Finished generating thumbnails for package [/Game/FirstPerson/lukes_changes/WBP_Mainmenu]
+[2025.09.04-21.31.34:020][516]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/FirstPerson/lukes_changes/WBP_Mainmenu_Auto5
+[2025.09.04-21.31.34:020][516]LogSavePackage: Moving '../../../../../../Users/slynch/Documents/Unreal Projects/SpitRunner/SpitRunner/Saved/WBP_Mainmenu_Auto5587A8203480FFF3BCCE22785F62DDA05.tmp' to '../../../../../../Users/slynch/Documents/Unreal Projects/SpitRunner/SpitRunner/Saved/Autosaves/Game/FirstPerson/lukes_changes/WBP_Mainmenu_Auto5.uasset'
+[2025.09.04-21.31.34:021][516]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/FirstPerson/lukes_changes/Sprite-0001] ([1] browsable assets)...
+[2025.09.04-21.31.34:024][516]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/FirstPerson/lukes_changes/Sprite-0001.Sprite-0001]
+[2025.09.04-21.31.34:024][516]OBJ SavePackage: Finished generating thumbnails for package [/Game/FirstPerson/lukes_changes/Sprite-0001]
+[2025.09.04-21.31.34:035][516]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/FirstPerson/lukes_changes/Sprite-0001_Auto5
+[2025.09.04-21.31.34:036][516]LogSavePackage: Moving '../../../../../../Users/slynch/Documents/Unreal Projects/SpitRunner/SpitRunner/Saved/Sprite-0001_Auto55D228E9342FB71A43C65CB8C37B9A4F8.tmp' to '../../../../../../Users/slynch/Documents/Unreal Projects/SpitRunner/SpitRunner/Saved/Autosaves/Game/FirstPerson/lukes_changes/Sprite-0001_Auto5.uasset'
+[2025.09.04-21.31.34:037][516]LogFileHelpers: Auto-saving content packages took 0.037
+[2025.09.04-21.32.55:689][762]LogDerivedDataCache: C:/Users/slynch/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.000 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
+[2025.09.04-21.36.09:062][457]LogStreaming: Display: FlushAsyncLoading(616): 1 QueuedPackages, 0 AsyncPackages
+[2025.09.04-21.36.09:091][457]LogInterchangeEngine: [Pending] Importing
+[2025.09.04-21.36.09:091][457]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/slynch/Pictures/Sprite-0002.png]
+[2025.09.04-21.36.09:853][459]LogStreaming: Display: FlushAsyncLoading(617): 1 QueuedPackages, 0 AsyncPackages
+[2025.09.04-21.36.09:853][460]LogCore: PNG has complex alpha channel, will not fill RGB in transparent background, due to setting PNGInfill == OnlyOnBinaryTransparency
+[2025.09.04-21.36.09:872][461]LogTexture: Display: Building textures: /Game/FirstPerson/lukes_changes/Sprite-0002.Sprite-0002 (TFO_AutoDXT, 104x20 x1x1x1) (Required Memory Estimate: 1.327924 MB), EncodeSpeed: Fast
+[2025.09.04-21.36.09:906][461]LogInterchangeEngine: Display: Interchange import completed [C:/Users/slynch/Pictures/Sprite-0002.png]
+[2025.09.04-21.36.09:915][461]LogInterchangeEngine: [Pending] Importing - Operation completed.
+[2025.09.04-21.36.09:915][461]LogInterchangeEngine: [Success] Import Done
+[2025.09.04-21.36.11:986][495]LogAssetEditorSubsystem: Opening Asset editor for Texture2D /Game/FirstPerson/lukes_changes/Sprite-0002.Sprite-0002
+[2025.09.04-21.36.17:064][610]LogTexture: Display: Building textures: /Game/FirstPerson/lukes_changes/Sprite-0002.Sprite-0002 (TFO_DXT1, 104x20 x1x1x1) (Required Memory Estimate: 1.236686 MB), EncodeSpeed: Final
+[2025.09.04-21.36.22:463][729]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 7428.946777
+[2025.09.04-21.36.22:664][733]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.09.04-21.36.22:664][733]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 7429.097168, Update Interval: 344.131592
+[2025.09.04-21.36.29:847][865]LogTexture: Display: Building textures: /Game/FirstPerson/lukes_changes/Sprite-0002.Sprite-0002 (TFO_AutoDXT, 104x20 x1x1x1) (Required Memory Estimate: 1.327924 MB), EncodeSpeed: Final
+[2025.09.04-21.36.37:884][ 15]LogTexture: Display: Building textures: /Game/FirstPerson/lukes_changes/Sprite-0002.Sprite-0002 (TFO_AutoDXT, 104x20 x1x1x1) (Required Memory Estimate: 1.327924 MB), EncodeSpeed: Final
+[2025.09.04-21.37.05:680][699]LogTexture: Display: Building textures: /Game/FirstPerson/lukes_changes/Sprite-0002.Sprite-0002 (TFO_AutoDXT, 104x20 x1x1x1) (Required Memory Estimate: 1.327924 MB), EncodeSpeed: Final
+[2025.09.04-21.37.14:692][891]LogTexture: Display: Building textures: /Game/FirstPerson/lukes_changes/Sprite-0002.Sprite-0002 (BGRA8, 104x20 x1x1x1) (Required Memory Estimate: 1.071404 MB), EncodeSpeed: Final
+[2025.09.04-21.37.40:319][798]LogBlueprint: Error: [AssetLog] C:\Users\slynch\Documents\Unreal Projects\SpitRunner\SpitRunner\Content\FirstPerson\lukes_changes\MainMenu.umap: [Compiler] The type of  Object  is undetermined.  Connect something to  Cast To WBP_Mainmenu  to imply a specific type.
+[2025.09.04-21.37.40:320][798]LogBlueprint: Error: [AssetLog] C:\Users\slynch\Documents\Unreal Projects\SpitRunner\SpitRunner\Content\FirstPerson\lukes_changes\MainMenu.umap: [Compiler] The current value of the ' Object ' pin is invalid: Unsupported type Wildcard on pin Object
+[2025.09.04-21.37.40:320][798]LogBlueprint: Error: [AssetLog] C:\Users\slynch\Documents\Unreal Projects\SpitRunner\SpitRunner\Content\FirstPerson\lukes_changes\WBP_Mainmenu.uasset: [Compiler] Binding: Property ' /Script/UMG.Image:OnMouseButtonDownEvent ' on Widget ' Image_3 ': Unknown Error
+[2025.09.04-21.37.40:424][798]LogUObjectHash: Compacting FUObjectHashTables data took   1.92ms
+[2025.09.04-21.39.58:975][217]LogUObjectHash: Compacting FUObjectHashTables data took   1.85ms
+[2025.09.04-21.40.01:282][295]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.09.04-21.40.01:291][295]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.09.04-21.40.01:291][295]BlueprintLog: Warning: Blueprint failed to compile:  WBP_Mainmenu
+[2025.09.04-21.40.04:743][295]LogSlate: Window 'Blueprint Compilation Errors' being destroyed
+[2025.09.04-21.40.06:689][344]LogSlate: Window 'Message Log' being destroyed
+[2025.09.04-21.40.06:781][344]LogSlate: Window 'Message Log' being destroyed
+[2025.09.04-21.40.31:054][ 31]LogBlueprint: Warning: Unknown type of hyperlinked object (Image_3), cannot focus it
+[2025.09.04-21.40.33:130][ 88]LogBlueprint: Error: [AssetLog] C:\Users\slynch\Documents\Unreal Projects\SpitRunner\SpitRunner\Content\FirstPerson\lukes_changes\WBP_Mainmenu.uasset: [Compiler] Binding: Property ' /Script/UMG.Image:OnMouseButtonDownEvent ' on Widget ' Image_3 ': Unknown Error
+[2025.09.04-21.40.33:190][ 88]LogUObjectHash: Compacting FUObjectHashTables data took   1.87ms
+[2025.09.04-21.41.17:810][118]LogBlueprint: Warning: [AssetLog] C:\Users\slynch\Documents\Unreal Projects\SpitRunner\SpitRunner\Content\FirstPerson\lukes_changes\WBP_Mainmenu.uasset: [Compiler] Event Reply  Return Value  should not be empty.  Return a reply such as Handled or Unhandled.
+[2025.09.04-21.41.17:898][118]LogUObjectHash: Compacting FUObjectHashTables data took   1.89ms
+[2025.09.04-21.41.39:550][629]LogUObjectHash: Compacting FUObjectHashTables data took   1.88ms
+[2025.09.04-21.41.50:000][892]LogUObjectHash: Compacting FUObjectHashTables data took   1.86ms
+[2025.09.04-21.41.55:319][ 70]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.09.04-21.41.55:327][ 70]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.09.04-21.41.55:327][ 70]LogPlayLevel: Creating play world package: /Game/FirstPerson/lukes_changes/UEDPIE_0_MainMenu
+[2025.09.04-21.41.55:329][ 70]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001744s)
+[2025.09.04-21.41.55:329][ 70]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPerson/lukes_changes/MainMenu.MainMenu to /Game/FirstPerson/lukes_changes/UEDPIE_0_MainMenu.MainMenu (0.001800s)
+[2025.09.04-21.41.55:364][ 70]LogUObjectHash: Compacting FUObjectHashTables data took   1.84ms
+[2025.09.04-21.41.55:368][ 70]LogChaosDD: Creating Chaos Debug Draw Scene for world MainMenu
+[2025.09.04-21.41.55:370][ 70]LogPlayLevel: PIE: World Init took: (0.002464s)
+[2025.09.04-21.41.55:371][ 70]LogAudio: Display: Creating Audio Device:                 Id: 37, Scope: Unique, Realtime: True
+[2025.09.04-21.41.55:371][ 70]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.09.04-21.41.55:371][ 70]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.09.04-21.41.55:371][ 70]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.09.04-21.41.55:371][ 70]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.09.04-21.41.55:371][ 70]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.09.04-21.41.55:371][ 70]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.09.04-21.41.55:371][ 70]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.09.04-21.41.55:371][ 70]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.09.04-21.41.55:372][ 70]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.09.04-21.41.55:372][ 70]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.09.04-21.41.55:372][ 70]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.09.04-21.41.55:375][ 70]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.09.04-21.41.55:396][ 70]LogAudioMixer: Display: Using Audio Hardware Device Speakers (VMware Virtual Audio (DevTap))
+[2025.09.04-21.41.55:397][ 70]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.09.04-21.41.55:397][ 70]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.09.04-21.41.55:397][ 70]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.09.04-21.41.55:397][ 70]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=37
+[2025.09.04-21.41.55:397][ 70]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=37
+[2025.09.04-21.41.55:402][ 70]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=37
+[2025.09.04-21.41.55:402][ 70]LogInit: FAudioDevice initialized with ID 37.
+[2025.09.04-21.41.55:402][ 70]LogAudio: Display: Audio Device (ID: 37) registered with world 'MainMenu'.
+[2025.09.04-21.41.55:402][ 70]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=37
+[2025.09.04-21.41.55:402][ 70]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 37
+[2025.09.04-21.41.55:410][ 70]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2025.09.04-21.41.55:410][ 70]LogWorld: Bringing World /Game/FirstPerson/lukes_changes/UEDPIE_0_MainMenu.MainMenu up for play (max tick rate 0) at 2025.09.04-15.41.55
+[2025.09.04-21.41.55:411][ 70]LogWorld: Bringing up level for play took: 0.000592
+[2025.09.04-21.41.55:414][ 70]LogOnline: OSS: Created online subsystem instance for: :Context_46
+[2025.09.04-21.41.55:423][ 70]PIE: Server logged in
+[2025.09.04-21.41.55:426][ 70]PIE: Play in editor total start time 0.099 seconds.
+[2025.09.04-21.41.55:545][ 71]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2025.09.04-21.41.55:738][ 72]LogPSOHitching: Encountered 1350 PSO creation hitches so far (574 graphics, 776 compute). 0 of them were precached.
+[2025.09.04-21.41.56:411][108]LogGlobalStatus: UEngine::Browse Started Browse: "/Game/FirstPerson/lukes_changes/Lvl_1"
+[2025.09.04-21.41.56:411][108]LogNet: Browse: /Game/FirstPerson/lukes_changes/Lvl_1
+[2025.09.04-21.41.56:411][108]LogLoad: LoadMap: /Game/FirstPerson/lukes_changes/Lvl_1
+[2025.09.04-21.41.56:411][108]LogWorld: BeginTearingDown for /Game/FirstPerson/lukes_changes/UEDPIE_0_MainMenu
+[2025.09.04-21.41.56:412][108]LogWorld: UWorld::CleanupWorld for MainMenu, bSessionEnded=true, bCleanupResources=true
+[2025.09.04-21.41.56:412][108]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.09.04-21.41.56:446][108]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.09.04-21.41.56:449][108]LogUObjectHash: Compacting FUObjectHashTables data took   1.90ms
+[2025.09.04-21.41.56:452][108]LogStreaming: Display: FlushAsyncLoading(618): 1 QueuedPackages, 0 AsyncPackages
+[2025.09.04-21.41.56:459][108]LogAudio: Display: Audio Device (ID: 37) registered with world 'Lvl_1'.
+[2025.09.04-21.41.56:460][108]LogChaosDD: Creating Chaos Debug Draw Scene for world Lvl_1
+[2025.09.04-21.41.56:462][108]LogPlayLevel: PIE: World Init took: (0.002340s)
+[2025.09.04-21.41.56:462][108]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2025.09.04-21.41.56:470][108]LogWorld: Bringing World /Game/FirstPerson/lukes_changes/UEDPIE_0_Lvl_1.Lvl_1 up for play (max tick rate 0) at 2025.09.04-15.41.56
+[2025.09.04-21.41.56:471][108]LogWorld: Bringing up level for play took: 0.008135
+[2025.09.04-21.41.56:478][108]LogLoad: Took 0.067130 seconds to LoadMap(/Game/FirstPerson/lukes_changes/Lvl_1)
+[2025.09.04-21.41.56:478][108]LogGlobalStatus: UEngine::LoadMap Load map complete /Game/FirstPerson/lukes_changes/Lvl_1
+[2025.09.04-21.41.56:882][109]LogPSOHitching: Encountered 1400 PSO creation hitches so far (579 graphics, 821 compute). 0 of them were precached.
+[2025.09.04-21.41.57:748][109]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2025.09.04-21.41.57:905][110]LogPSOHitching: Encountered 1450 PSO creation hitches so far (603 graphics, 847 compute). 0 of them were precached.
+[2025.09.04-21.42.00:326][237]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.09.04-21.42.00:326][237]LogWorld: BeginTearingDown for /Game/FirstPerson/lukes_changes/UEDPIE_0_Lvl_1
+[2025.09.04-21.42.00:326][237]LogWorld: UWorld::CleanupWorld for Lvl_1, bSessionEnded=true, bCleanupResources=true
+[2025.09.04-21.42.00:327][237]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.09.04-21.42.00:330][237]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.09.04-21.42.00:342][237]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.09.04-21.42.00:375][237]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.09.04-21.42.00:375][237]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 37
+[2025.09.04-21.42.00:375][237]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=37, StreamState=4
+[2025.09.04-21.42.00:378][237]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=37, StreamState=2
+[2025.09.04-21.42.00:388][237]LogUObjectHash: Compacting FUObjectHashTables data took   1.97ms
+[2025.09.04-21.42.00:483][238]LogPlayLevel: Display: Destroying online subsystem :Context_46
+[2025.09.04-21.42.50:620][623]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 7816.789062
+[2025.09.04-21.42.50:820][627]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.09.04-21.42.50:820][627]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 7816.938965, Update Interval: 336.895050
+[2025.09.04-21.42.51:356][638]LogUObjectHash: Compacting FUObjectHashTables data took   1.86ms
+[2025.09.04-21.42.54:119][736]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.09.04-21.42.54:127][736]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.09.04-21.42.54:127][736]LogPlayLevel: Creating play world package: /Game/FirstPerson/lukes_changes/UEDPIE_0_MainMenu
+[2025.09.04-21.42.54:128][736]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001580s)
+[2025.09.04-21.42.54:128][736]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPerson/lukes_changes/MainMenu.MainMenu to /Game/FirstPerson/lukes_changes/UEDPIE_0_MainMenu.MainMenu (0.001635s)
+[2025.09.04-21.42.54:162][736]LogUObjectHash: Compacting FUObjectHashTables data took   1.84ms
+[2025.09.04-21.42.54:165][736]LogChaosDD: Creating Chaos Debug Draw Scene for world MainMenu
+[2025.09.04-21.42.54:167][736]LogPlayLevel: PIE: World Init took: (0.002459s)
+[2025.09.04-21.42.54:169][736]LogAudio: Display: Creating Audio Device:                 Id: 38, Scope: Unique, Realtime: True
+[2025.09.04-21.42.54:169][736]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.09.04-21.42.54:169][736]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.09.04-21.42.54:169][736]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.09.04-21.42.54:169][736]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.09.04-21.42.54:169][736]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.09.04-21.42.54:169][736]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.09.04-21.42.54:169][736]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.09.04-21.42.54:169][736]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.09.04-21.42.54:169][736]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.09.04-21.42.54:169][736]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.09.04-21.42.54:169][736]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.09.04-21.42.54:172][736]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.09.04-21.42.54:190][736]LogAudioMixer: Display: Using Audio Hardware Device Speakers (VMware Virtual Audio (DevTap))
+[2025.09.04-21.42.54:190][736]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.09.04-21.42.54:190][736]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.09.04-21.42.54:190][736]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.09.04-21.42.54:190][736]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=38
+[2025.09.04-21.42.54:190][736]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=38
+[2025.09.04-21.42.54:195][736]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=38
+[2025.09.04-21.42.54:195][736]LogInit: FAudioDevice initialized with ID 38.
+[2025.09.04-21.42.54:195][736]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=38
+[2025.09.04-21.42.54:195][736]LogAudio: Display: Audio Device (ID: 38) registered with world 'MainMenu'.
+[2025.09.04-21.42.54:195][736]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 38
+[2025.09.04-21.42.54:202][736]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2025.09.04-21.42.54:203][736]LogWorld: Bringing World /Game/FirstPerson/lukes_changes/UEDPIE_0_MainMenu.MainMenu up for play (max tick rate 0) at 2025.09.04-15.42.54
+[2025.09.04-21.42.54:203][736]LogWorld: Bringing up level for play took: 0.000565
+[2025.09.04-21.42.54:207][736]LogOnline: OSS: Created online subsystem instance for: :Context_47
+[2025.09.04-21.42.54:215][736]PIE: Server logged in
+[2025.09.04-21.42.54:219][736]PIE: Play in editor total start time 0.092 seconds.
+[2025.09.04-21.42.54:312][737]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2025.09.04-21.42.56:975][888]LogGlobalStatus: UEngine::Browse Started Browse: "/Game/FirstPerson/lukes_changes/Lvl_1"
+[2025.09.04-21.42.56:975][888]LogNet: Browse: /Game/FirstPerson/lukes_changes/Lvl_1
+[2025.09.04-21.42.56:975][888]LogLoad: LoadMap: /Game/FirstPerson/lukes_changes/Lvl_1
+[2025.09.04-21.42.56:975][888]LogWorld: BeginTearingDown for /Game/FirstPerson/lukes_changes/UEDPIE_0_MainMenu
+[2025.09.04-21.42.56:976][888]LogWorld: UWorld::CleanupWorld for MainMenu, bSessionEnded=true, bCleanupResources=true
+[2025.09.04-21.42.56:976][888]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.09.04-21.42.57:010][888]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.09.04-21.42.57:013][888]LogUObjectHash: Compacting FUObjectHashTables data took   1.87ms
+[2025.09.04-21.42.57:016][888]LogStreaming: Display: FlushAsyncLoading(619): 1 QueuedPackages, 0 AsyncPackages
+[2025.09.04-21.42.57:023][888]LogAudio: Display: Audio Device (ID: 38) registered with world 'Lvl_1'.
+[2025.09.04-21.42.57:023][888]LogChaosDD: Creating Chaos Debug Draw Scene for world Lvl_1
+[2025.09.04-21.42.57:025][888]LogPlayLevel: PIE: World Init took: (0.002308s)
+[2025.09.04-21.42.57:025][888]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2025.09.04-21.42.57:033][888]LogWorld: Bringing World /Game/FirstPerson/lukes_changes/UEDPIE_0_Lvl_1.Lvl_1 up for play (max tick rate 0) at 2025.09.04-15.42.57
+[2025.09.04-21.42.57:033][888]LogWorld: Bringing up level for play took: 0.008368
+[2025.09.04-21.42.57:041][888]LogLoad: Took 0.066588 seconds to LoadMap(/Game/FirstPerson/lukes_changes/Lvl_1)
+[2025.09.04-21.42.57:041][888]LogGlobalStatus: UEngine::LoadMap Load map complete /Game/FirstPerson/lukes_changes/Lvl_1
+[2025.09.04-21.42.57:156][889]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2025.09.04-21.43.13:146][840]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.09.04-21.43.13:146][840]LogWorld: BeginTearingDown for /Game/FirstPerson/lukes_changes/UEDPIE_0_Lvl_1
+[2025.09.04-21.43.13:146][840]LogWorld: UWorld::CleanupWorld for Lvl_1, bSessionEnded=true, bCleanupResources=true
+[2025.09.04-21.43.13:147][840]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.09.04-21.43.13:149][840]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.09.04-21.43.13:159][840]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.09.04-21.43.13:190][840]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.09.04-21.43.13:190][840]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 38
+[2025.09.04-21.43.13:190][840]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=38, StreamState=4
+[2025.09.04-21.43.13:193][840]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=38, StreamState=2
+[2025.09.04-21.43.13:203][840]LogUObjectHash: Compacting FUObjectHashTables data took   1.85ms
+[2025.09.04-21.43.13:241][841]LogPlayLevel: Display: Destroying online subsystem :Context_47
+[2025.09.04-21.43.34:566][546]LogUObjectHash: Compacting FUObjectHashTables data took   1.88ms
+[2025.09.04-21.43.35:833][546]LogSlate: Window 'Save Content' being destroyed
+[2025.09.04-21.43.35:861][546]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.09.04-21.43.36:052][546]LogUObjectHash: Compacting FUObjectHashTables data took   0.90ms
+[2025.09.04-21.43.36:071][546]LogSavePackage: Moving output files for package: /Game/FirstPerson/lukes_changes/MainMenu
+[2025.09.04-21.43.36:071][546]LogSavePackage: Moving '../../../../../../Users/slynch/Documents/Unreal Projects/SpitRunner/SpitRunner/Saved/MainMenuD746146C4DC2E81799694D9E23B55611.tmp' to '../../../../../../Users/slynch/Documents/Unreal Projects/SpitRunner/SpitRunner/Content/FirstPerson/lukes_changes/MainMenu.umap'
+[2025.09.04-21.43.36:081][546]LogAssetRegistry: Warning: FPathExistence failed to gather correct capitalization from disk for C:/Users/slynch/Documents/Unreal Projects/SpitRunner/SpitRunner/Content/FirstPerson/lukes_changes/MainMenu.umap, because GetFilenameOnDisk returned non-matching filename 'C:/SnapVolumesTemp/MountPoints/{2a1a129f-0000-0000-0000-100000000000}/{84b2e9e6-b9f5-47d9-be52-3b2d612ac90e}/SVROOT/Users/slynch/Documents/Unreal Projects/SpitRunner/SpitRunner/Content/FirstPerson/lukes_changes/MainMenu.umap'.
+[2025.09.04-21.43.36:082][546]LogFileHelpers: Saving map 'MainMenu' took 0.086
+[2025.09.04-21.43.36:083][546]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/FirstPerson/lukes_changes/Sprite-0001] ([1] browsable assets)...
+[2025.09.04-21.43.36:083][546]OBJ SavePackage: Finished generating thumbnails for package [/Game/FirstPerson/lukes_changes/Sprite-0001]
+[2025.09.04-21.43.36:093][546]LogSavePackage: Moving output files for package: /Game/FirstPerson/lukes_changes/Sprite-0001
+[2025.09.04-21.43.36:093][546]LogSavePackage: Moving '../../../../../../Users/slynch/Documents/Unreal Projects/SpitRunner/SpitRunner/Saved/Sprite-00016DA819664B72961FEC6ECFB64816795D.tmp' to '../../../../../../Users/slynch/Documents/Unreal Projects/SpitRunner/SpitRunner/Content/FirstPerson/lukes_changes/Sprite-0001.uasset'
+[2025.09.04-21.43.36:100][546]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/FirstPerson/lukes_changes/Sprite-0002] ([1] browsable assets)...
+[2025.09.04-21.43.36:103][546]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/FirstPerson/lukes_changes/Sprite-0002.Sprite-0002]
+[2025.09.04-21.43.36:103][546]OBJ SavePackage: Finished generating thumbnails for package [/Game/FirstPerson/lukes_changes/Sprite-0002]
+[2025.09.04-21.43.36:115][546]LogSavePackage: Moving output files for package: /Game/FirstPerson/lukes_changes/Sprite-0002
+[2025.09.04-21.43.36:115][546]LogSavePackage: Moving '../../../../../../Users/slynch/Documents/Unreal Projects/SpitRunner/SpitRunner/Saved/Sprite-00026DD041FE47C9D825AB24939CE9ADF98C.tmp' to '../../../../../../Users/slynch/Documents/Unreal Projects/SpitRunner/SpitRunner/Content/FirstPerson/lukes_changes/Sprite-0002.uasset'
+[2025.09.04-21.43.36:116][546]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/FirstPerson/lukes_changes/WBP_Mainmenu] ([2] browsable assets)...
+[2025.09.04-21.43.36:123][546]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/FirstPerson/lukes_changes/WBP_Mainmenu.WBP_Mainmenu]
+[2025.09.04-21.43.36:123][546]OBJ SavePackage: Finished generating thumbnails for package [/Game/FirstPerson/lukes_changes/WBP_Mainmenu]
+[2025.09.04-21.43.36:142][546]LogSavePackage: Moving output files for package: /Game/FirstPerson/lukes_changes/WBP_Mainmenu
+[2025.09.04-21.43.36:143][546]LogSavePackage: Moving '../../../../../../Users/slynch/Documents/Unreal Projects/SpitRunner/SpitRunner/Saved/WBP_MainmenuCB6890DE41F579D72DF78C8FF5043A14.tmp' to '../../../../../../Users/slynch/Documents/Unreal Projects/SpitRunner/SpitRunner/Content/FirstPerson/lukes_changes/WBP_Mainmenu.uasset'
+[2025.09.04-21.43.36:143][546]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/FirstPerson/lukes_changes/deth] ([2] browsable assets)...
+[2025.09.04-21.43.36:143][546]OBJ SavePackage: Finished generating thumbnails for package [/Game/FirstPerson/lukes_changes/deth]
+[2025.09.04-21.43.36:159][546]LogSavePackage: Moving output files for package: /Game/FirstPerson/lukes_changes/deth
+[2025.09.04-21.43.36:159][546]LogSavePackage: Moving '../../../../../../Users/slynch/Documents/Unreal Projects/SpitRunner/SpitRunner/Saved/deth8BBB69144868297375BF04BA09664A5E.tmp' to '../../../../../../Users/slynch/Documents/Unreal Projects/SpitRunner/SpitRunner/Content/FirstPerson/lukes_changes/deth.uasset'
+[2025.09.04-21.43.36:331][546]LogFileHelpers: InternalPromptForCheckoutAndSave took 470.072 ms (total: 3.40 sec)
+[2025.09.04-21.43.36:331][546]LogStreaming: Display: FlushAsyncLoading(620): 1 QueuedPackages, 0 AsyncPackages
+[2025.09.04-21.43.36:339][546]LogChaosDD: Creating Chaos Debug Draw Scene for world Lvl_1
+[2025.09.04-21.43.36:349][546]LogAssetEditorSubsystem: Opening Asset editor for World /Game/FirstPerson/lukes_changes/Lvl_1.Lvl_1
+[2025.09.04-21.43.36:349][546]Cmd: MAP LOAD FILE="../../../../../../Users/slynch/Documents/Unreal Projects/SpitRunner/SpitRunner/Content/FirstPerson/lukes_changes/Lvl_1.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=4
+[2025.09.04-21.43.36:410][546]LogWorld: UWorld::CleanupWorld for World_11, bSessionEnded=true, bCleanupResources=true
+[2025.09.04-21.43.36:410][546]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.09.04-21.43.36:450][546]LogAssetRegistry: Warning: FPathExistence failed to gather correct capitalization from disk for C:/Users/slynch/Documents/Unreal Projects/SpitRunner/SpitRunner/Content/FirstPerson/lukes_changes/MainMenu.umap, because GetFilenameOnDisk returned non-matching filename 'C:/SnapVolumesTemp/MountPoints/{2a1a129f-0000-0000-0000-100000000000}/{84b2e9e6-b9f5-47d9-be52-3b2d612ac90e}/SVROOT/Users/slynch/Documents/Unreal Projects/SpitRunner/SpitRunner/Content/FirstPerson/lukes_changes/MainMenu.umap'.
+[2025.09.04-21.43.36:452][546]LogWorld: UWorld::CleanupWorld for MainMenu, bSessionEnded=true, bCleanupResources=true
+[2025.09.04-21.43.36:452][546]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.09.04-21.43.36:488][546]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.09.04-21.43.36:492][546]LogUObjectHash: Compacting FUObjectHashTables data took   1.95ms
+[2025.09.04-21.43.36:500][546]LogWorld: UWorld::CleanupWorld for Lvl_1, bSessionEnded=true, bCleanupResources=true
+[2025.09.04-21.43.36:501][546]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.09.04-21.43.36:537][546]LogUObjectHash: Compacting FUObjectHashTables data took   2.00ms
+[2025.09.04-21.43.36:580][546]LogUObjectHash: Compacting FUObjectHashTables data took   1.88ms
+[2025.09.04-21.43.36:589][546]LogAudio: Display: Audio Device (ID: 1) registered with world 'Lvl_1'.
+[2025.09.04-21.43.36:589][546]LogChaosDD: Creating Chaos Debug Draw Scene for world Lvl_1
+[2025.09.04-21.43.36:621][546]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2025.09.04-21.43.36:659][546]LogUObjectHash: Compacting FUObjectHashTables data took   1.95ms
+[2025.09.04-21.43.36:669][546]Cmd: MAP CHECKDEP NOCLEARLOG
+[2025.09.04-21.43.36:670][546]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.102ms to complete.
+[2025.09.04-21.43.36:709][546]LogAssetRegistry: Warning: FPathExistence failed to gather correct capitalization from disk for C:/Users/slynch/Documents/Unreal Projects/SpitRunner/SpitRunner/Content/FirstPerson/lukes_changes/MainMenu.umap, because GetFilenameOnDisk returned non-matching filename 'C:/SnapVolumesTemp/MountPoints/{2a1a129f-0000-0000-0000-100000000000}/{84b2e9e6-b9f5-47d9-be52-3b2d612ac90e}/SVROOT/Users/slynch/Documents/Unreal Projects/SpitRunner/SpitRunner/Content/FirstPerson/lukes_changes/MainMenu.umap'.
+[2025.09.04-21.43.36:709][546]LogAssetRegistry: Warning: FPathExistence failed to gather correct capitalization from disk for C:/Users/slynch/Documents/Unreal Projects/SpitRunner/SpitRunner/Content/FirstPerson/lukes_changes/WBP_Mainmenu.uasset, because GetFilenameOnDisk returned non-matching filename 'C:/SnapVolumesTemp/MountPoints/{2a1a129f-0000-0000-0000-100000000000}/{84b2e9e6-b9f5-47d9-be52-3b2d612ac90e}/SVROOT/Users/slynch/Documents/Unreal Projects/SpitRunner/SpitRunner/Content/FirstPerson/lukes_changes/WBP_Mainmenu.uasset'.
+[2025.09.04-21.43.36:709][546]LogAssetRegistry: Warning: FPathExistence failed to gather correct capitalization from disk for C:/Users/slynch/Documents/Unreal Projects/SpitRunner/SpitRunner/Content/FirstPerson/lukes_changes/deth.uasset, because GetFilenameOnDisk returned non-matching filename 'C:/SnapVolumesTemp/MountPoints/{2a1a129f-0000-0000-0000-100000000000}/{84b2e9e6-b9f5-47d9-be52-3b2d612ac90e}/SVROOT/Users/slynch/Documents/Unreal Projects/SpitRunner/SpitRunner/Content/FirstPerson/lukes_changes/deth.uasset'.
+[2025.09.04-21.43.36:829][546]LogContentValidation: Display: Starting to validate 5 assets
+[2025.09.04-21.43.36:829][546]LogContentValidation: Enabled validators:
+[2025.09.04-21.43.36:829][546]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.09.04-21.43.36:829][546]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.09.04-21.43.36:829][546]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.09.04-21.43.36:829][546]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.09.04-21.43.36:829][546]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.09.04-21.43.36:829][546]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.09.04-21.43.36:829][546]AssetCheck: /Game/FirstPerson/lukes_changes/Sprite-0001 Validating asset
+[2025.09.04-21.43.36:829][546]AssetCheck: /Game/FirstPerson/lukes_changes/Sprite-0002 Validating asset
+[2025.09.04-21.43.36:830][546]AssetCheck: /Game/FirstPerson/lukes_changes/WBP_Mainmenu Validating asset
+[2025.09.04-21.43.36:830][546]AssetCheck: /Game/FirstPerson/lukes_changes/deth Validating asset
+[2025.09.04-21.43.36:921][546]LogUObjectHash: Compacting FUObjectHashTables data took   0.89ms
+[2025.09.04-21.43.36:946][546]LogSourceControl: Display: Uncontrolled Changelist persistency file saved ../../../../../../Users/slynch/Documents/Unreal Projects/SpitRunner/SpitRunner/Saved/SourceControl/UncontrolledChangelists.json
+[2025.09.04-21.43.37:549][548]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2025.09.04-21.43.45:296][974]LogUObjectHash: Compacting FUObjectHashTables data took   0.93ms
+[2025.09.04-21.43.45:301][974]LogStreaming: Display: FlushAsyncLoading(622): 1 QueuedPackages, 0 AsyncPackages
+[2025.09.04-21.43.45:330][974]LogChaosDD: Creating Chaos Debug Draw Scene for world MainMenu
+[2025.09.04-21.43.45:332][974]LogAssetEditorSubsystem: Opening Asset editor for World /Game/FirstPerson/lukes_changes/MainMenu.MainMenu
+[2025.09.04-21.43.45:332][974]Cmd: MAP LOAD FILE="../../../../../../Users/slynch/Documents/Unreal Projects/SpitRunner/SpitRunner/Content/FirstPerson/lukes_changes/MainMenu.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=4
+[2025.09.04-21.43.45:353][974]LogWorld: UWorld::CleanupWorld for Lvl_1, bSessionEnded=true, bCleanupResources=true
+[2025.09.04-21.43.45:355][974]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.09.04-21.43.45:390][974]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.09.04-21.43.45:393][974]LogUObjectHash: Compacting FUObjectHashTables data took   2.02ms
+[2025.09.04-21.43.45:397][974]LogWorld: UWorld::CleanupWorld for MainMenu, bSessionEnded=true, bCleanupResources=true
+[2025.09.04-21.43.45:398][974]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.09.04-21.43.45:434][974]LogUObjectHash: Compacting FUObjectHashTables data took   2.08ms
+[2025.09.04-21.43.45:596][974]LogUObjectHash: Compacting FUObjectHashTables data took   1.84ms
+[2025.09.04-21.43.45:627][974]LogAudio: Display: Audio Device (ID: 1) registered with world 'MainMenu'.
+[2025.09.04-21.43.45:627][974]LogChaosDD: Creating Chaos Debug Draw Scene for world MainMenu
+[2025.09.04-21.43.45:645][974]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2025.09.04-21.43.45:683][974]LogUObjectHash: Compacting FUObjectHashTables data took   1.83ms
+[2025.09.04-21.43.45:693][974]Cmd: MAP CHECKDEP NOCLEARLOG
+[2025.09.04-21.43.45:693][974]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.075ms to complete.
+[2025.09.04-21.43.45:861][976]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2025.09.04-21.43.47:298][ 36]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.09.04-21.43.47:307][ 36]LogPlayLevel: [PlayLevel] Compiling deth before play...
+[2025.09.04-21.43.47:379][ 36]LogUObjectHash: Compacting FUObjectHashTables data took   1.88ms
+[2025.09.04-21.43.47:385][ 36]LogPlayLevel: PlayLevel: Blueprint regeneration took 78 ms (1 blueprints)
+[2025.09.04-21.43.47:415][ 36]LogPlayLevel: Creating play world package: /Game/FirstPerson/lukes_changes/UEDPIE_0_MainMenu
+[2025.09.04-21.43.47:417][ 36]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001709s)
+[2025.09.04-21.43.47:417][ 36]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPerson/lukes_changes/MainMenu.MainMenu to /Game/FirstPerson/lukes_changes/UEDPIE_0_MainMenu.MainMenu (0.001782s)
+[2025.09.04-21.43.47:452][ 36]LogUObjectHash: Compacting FUObjectHashTables data took   1.87ms
+[2025.09.04-21.43.47:454][ 36]LogChaosDD: Creating Chaos Debug Draw Scene for world MainMenu
+[2025.09.04-21.43.47:456][ 36]LogPlayLevel: PIE: World Init took: (0.002711s)
+[2025.09.04-21.43.47:458][ 36]LogAudio: Display: Creating Audio Device:                 Id: 39, Scope: Unique, Realtime: True
+[2025.09.04-21.43.47:458][ 36]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.09.04-21.43.47:458][ 36]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.09.04-21.43.47:458][ 36]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.09.04-21.43.47:458][ 36]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.09.04-21.43.47:458][ 36]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.09.04-21.43.47:458][ 36]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.09.04-21.43.47:458][ 36]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.09.04-21.43.47:458][ 36]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.09.04-21.43.47:458][ 36]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.09.04-21.43.47:458][ 36]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.09.04-21.43.47:458][ 36]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.09.04-21.43.47:461][ 36]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.09.04-21.43.47:481][ 36]LogAudioMixer: Display: Using Audio Hardware Device Speakers (VMware Virtual Audio (DevTap))
+[2025.09.04-21.43.47:482][ 36]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.09.04-21.43.47:482][ 36]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.09.04-21.43.47:482][ 36]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.09.04-21.43.47:482][ 36]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=39
+[2025.09.04-21.43.47:483][ 36]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=39
+[2025.09.04-21.43.47:486][ 36]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=39
+[2025.09.04-21.43.47:486][ 36]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=39
+[2025.09.04-21.43.47:486][ 36]LogInit: FAudioDevice initialized with ID 39.
+[2025.09.04-21.43.47:486][ 36]LogAudio: Display: Audio Device (ID: 39) registered with world 'MainMenu'.
+[2025.09.04-21.43.47:486][ 36]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 39
+[2025.09.04-21.43.47:493][ 36]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2025.09.04-21.43.47:494][ 36]LogWorld: Bringing World /Game/FirstPerson/lukes_changes/UEDPIE_0_MainMenu.MainMenu up for play (max tick rate 0) at 2025.09.04-15.43.47
+[2025.09.04-21.43.47:494][ 36]LogWorld: Bringing up level for play took: 0.000599
+[2025.09.04-21.43.47:497][ 36]LogOnline: OSS: Created online subsystem instance for: :Context_48
+[2025.09.04-21.43.47:507][ 36]PIE: Server logged in
+[2025.09.04-21.43.47:511][ 36]PIE: Play in editor total start time 0.204 seconds.
+[2025.09.04-21.43.47:610][ 37]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2025.09.04-21.43.50:729][219]LogGlobalStatus: UEngine::Browse Started Browse: "/Game/FirstPerson/lukes_changes/Lvl_1"
+[2025.09.04-21.43.50:729][219]LogNet: Browse: /Game/FirstPerson/lukes_changes/Lvl_1
+[2025.09.04-21.43.50:729][219]LogLoad: LoadMap: /Game/FirstPerson/lukes_changes/Lvl_1
+[2025.09.04-21.43.50:729][219]LogWorld: BeginTearingDown for /Game/FirstPerson/lukes_changes/UEDPIE_0_MainMenu
+[2025.09.04-21.43.50:730][219]LogWorld: UWorld::CleanupWorld for MainMenu, bSessionEnded=true, bCleanupResources=true
+[2025.09.04-21.43.50:730][219]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.09.04-21.43.50:765][219]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.09.04-21.43.50:769][219]LogUObjectHash: Compacting FUObjectHashTables data took   1.91ms
+[2025.09.04-21.43.50:773][219]LogStreaming: Display: FlushAsyncLoading(624): 1 QueuedPackages, 0 AsyncPackages
+[2025.09.04-21.43.50:780][219]LogAudio: Display: Audio Device (ID: 39) registered with world 'Lvl_1'.
+[2025.09.04-21.43.50:780][219]LogChaosDD: Creating Chaos Debug Draw Scene for world Lvl_1
+[2025.09.04-21.43.50:782][219]LogPlayLevel: PIE: World Init took: (0.002512s)
+[2025.09.04-21.43.50:782][219]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2025.09.04-21.43.50:791][219]LogWorld: Bringing World /Game/FirstPerson/lukes_changes/UEDPIE_0_Lvl_1.Lvl_1 up for play (max tick rate 0) at 2025.09.04-15.43.50
+[2025.09.04-21.43.50:792][219]LogWorld: Bringing up level for play took: 0.008399
+[2025.09.04-21.43.50:799][219]LogLoad: Took 0.069728 seconds to LoadMap(/Game/FirstPerson/lukes_changes/Lvl_1)
+[2025.09.04-21.43.50:799][219]LogGlobalStatus: UEngine::LoadMap Load map complete /Game/FirstPerson/lukes_changes/Lvl_1
+[2025.09.04-21.43.50:920][220]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2025.09.04-21.44.15:117][667]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.09.04-21.44.15:117][667]LogWorld: BeginTearingDown for /Game/FirstPerson/lukes_changes/UEDPIE_0_Lvl_1
+[2025.09.04-21.44.15:117][667]LogWorld: UWorld::CleanupWorld for Lvl_1, bSessionEnded=true, bCleanupResources=true
+[2025.09.04-21.44.15:118][667]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.09.04-21.44.15:121][667]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.09.04-21.44.15:132][667]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.09.04-21.44.15:164][667]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.09.04-21.44.15:164][667]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 39
+[2025.09.04-21.44.15:164][667]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=39, StreamState=4
+[2025.09.04-21.44.15:167][667]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=39, StreamState=2
+[2025.09.04-21.44.15:178][667]LogUObjectHash: Compacting FUObjectHashTables data took   1.92ms
+[2025.09.04-21.44.15:210][668]LogPlayLevel: Display: Destroying online subsystem :Context_48
+[2025.09.04-21.44.18:163][821]LogUObjectHash: Compacting FUObjectHashTables data took   1.86ms
+[2025.09.04-21.44.18:167][821]LogStreaming: Display: FlushAsyncLoading(625): 1 QueuedPackages, 0 AsyncPackages
+[2025.09.04-21.44.18:174][821]LogChaosDD: Creating Chaos Debug Draw Scene for world Lvl_1
+[2025.09.04-21.44.18:183][821]LogAssetEditorSubsystem: Opening Asset editor for World /Game/FirstPerson/lukes_changes/Lvl_1.Lvl_1
+[2025.09.04-21.44.18:184][821]Cmd: MAP LOAD FILE="../../../../../../Users/slynch/Documents/Unreal Projects/SpitRunner/SpitRunner/Content/FirstPerson/lukes_changes/Lvl_1.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=4
+[2025.09.04-21.44.18:206][821]LogAssetRegistry: Warning: FPathExistence failed to gather correct capitalization from disk for C:/Users/slynch/Documents/Unreal Projects/SpitRunner/SpitRunner/Content/FirstPerson/lukes_changes/MainMenu.umap, because GetFilenameOnDisk returned non-matching filename 'C:/SnapVolumesTemp/MountPoints/{2a1a129f-0000-0000-0000-100000000000}/{84b2e9e6-b9f5-47d9-be52-3b2d612ac90e}/SVROOT/Users/slynch/Documents/Unreal Projects/SpitRunner/SpitRunner/Content/FirstPerson/lukes_changes/MainMenu.umap'.
+[2025.09.04-21.44.18:207][821]LogWorld: UWorld::CleanupWorld for MainMenu, bSessionEnded=true, bCleanupResources=true
+[2025.09.04-21.44.18:207][821]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.09.04-21.44.18:240][821]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.09.04-21.44.18:243][821]LogUObjectHash: Compacting FUObjectHashTables data took   1.87ms
+[2025.09.04-21.44.18:247][821]LogWorld: UWorld::CleanupWorld for Lvl_1, bSessionEnded=true, bCleanupResources=true
+[2025.09.04-21.44.18:247][821]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.09.04-21.44.18:282][821]LogUObjectHash: Compacting FUObjectHashTables data took   1.87ms
+[2025.09.04-21.44.18:431][821]LogUObjectHash: Compacting FUObjectHashTables data took   1.80ms
+[2025.09.04-21.44.18:439][821]LogAudio: Display: Audio Device (ID: 1) registered with world 'Lvl_1'.
+[2025.09.04-21.44.18:439][821]LogChaosDD: Creating Chaos Debug Draw Scene for world Lvl_1
+[2025.09.04-21.44.18:469][821]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2025.09.04-21.44.18:506][821]LogUObjectHash: Compacting FUObjectHashTables data took   1.85ms
+[2025.09.04-21.44.18:515][821]Cmd: MAP CHECKDEP NOCLEARLOG
+[2025.09.04-21.44.18:516][821]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.074ms to complete.
+[2025.09.04-21.44.18:744][823]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2025.09.04-21.45.22:842][282]Cmd: DELETE
+[2025.09.04-21.45.22:842][282]Cmd: ACTOR DELETE
+[2025.09.04-21.45.22:845][282]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.09.04-21.45.22:879][282]LogUObjectHash: Compacting FUObjectHashTables data took   1.87ms
+[2025.09.04-21.45.22:884][282]LogEditorActor: Deleted 1 Actors (0.043 secs)
+[2025.09.04-21.46.06:530][647]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.09.04-21.46.06:531][647]LogPlayLevel: Creating play world package: /Game/FirstPerson/lukes_changes/UEDPIE_0_Lvl_1
+[2025.09.04-21.46.06:538][647]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007627s)
+[2025.09.04-21.46.06:538][647]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPerson/lukes_changes/Lvl_1.Lvl_1 to /Game/FirstPerson/lukes_changes/UEDPIE_0_Lvl_1.Lvl_1 (0.007683s)
+[2025.09.04-21.46.06:571][647]LogUObjectHash: Compacting FUObjectHashTables data took   1.80ms
+[2025.09.04-21.46.06:576][647]LogChaosDD: Creating Chaos Debug Draw Scene for world Lvl_1
+[2025.09.04-21.46.06:579][647]LogPlayLevel: PIE: World Init took: (0.002576s)
+[2025.09.04-21.46.06:580][647]LogAudio: Display: Creating Audio Device:                 Id: 40, Scope: Unique, Realtime: True
+[2025.09.04-21.46.06:580][647]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.09.04-21.46.06:580][647]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.09.04-21.46.06:580][647]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.09.04-21.46.06:580][647]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.09.04-21.46.06:580][647]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.09.04-21.46.06:580][647]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.09.04-21.46.06:580][647]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.09.04-21.46.06:580][647]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.09.04-21.46.06:580][647]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.09.04-21.46.06:580][647]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.09.04-21.46.06:580][647]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.09.04-21.46.06:582][647]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.09.04-21.46.06:601][647]LogAudioMixer: Display: Using Audio Hardware Device Speakers (VMware Virtual Audio (DevTap))
+[2025.09.04-21.46.06:601][647]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.09.04-21.46.06:601][647]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.09.04-21.46.06:601][647]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.09.04-21.46.06:602][647]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=40
+[2025.09.04-21.46.06:602][647]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=40
+[2025.09.04-21.46.06:606][647]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=40
+[2025.09.04-21.46.06:606][647]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=40
+[2025.09.04-21.46.06:606][647]LogInit: FAudioDevice initialized with ID 40.
+[2025.09.04-21.46.06:606][647]LogAudio: Display: Audio Device (ID: 40) registered with world 'Lvl_1'.
+[2025.09.04-21.46.06:606][647]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 40
+[2025.09.04-21.46.06:612][647]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2025.09.04-21.46.06:615][647]LogWorld: Bringing World /Game/FirstPerson/lukes_changes/UEDPIE_0_Lvl_1.Lvl_1 up for play (max tick rate 0) at 2025.09.04-15.46.06
+[2025.09.04-21.46.06:616][647]LogWorld: Bringing up level for play took: 0.003611
+[2025.09.04-21.46.06:619][647]LogOnline: OSS: Created online subsystem instance for: :Context_49
+[2025.09.04-21.46.06:628][647]PIE: Server logged in
+[2025.09.04-21.46.06:631][647]PIE: Play in editor total start time 0.102 seconds.
+[2025.09.04-21.46.07:030][647]LogPSOHitching: Encountered 1500 PSO creation hitches so far (633 graphics, 867 compute). 0 of them were precached.
+[2025.09.04-21.46.07:142][647]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2025.09.04-21.46.11:147][874]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.09.04-21.46.11:147][874]LogWorld: BeginTearingDown for /Game/FirstPerson/lukes_changes/UEDPIE_0_Lvl_1
+[2025.09.04-21.46.11:147][874]LogWorld: UWorld::CleanupWorld for Lvl_1, bSessionEnded=true, bCleanupResources=true
+[2025.09.04-21.46.11:148][874]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.09.04-21.46.11:154][874]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.09.04-21.46.11:166][874]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.09.04-21.46.11:197][874]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.09.04-21.46.11:197][874]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 40
+[2025.09.04-21.46.11:197][874]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=40, StreamState=4
+[2025.09.04-21.46.11:200][874]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=40, StreamState=2
+[2025.09.04-21.46.11:210][874]LogUObjectHash: Compacting FUObjectHashTables data took   1.88ms
+[2025.09.04-21.46.11:325][875]LogPlayLevel: Display: Destroying online subsystem :Context_49
+[2025.09.04-21.46.42:819][685]Cmd: DELETE
+[2025.09.04-21.46.42:819][685]Cmd: ACTOR DELETE
+[2025.09.04-21.46.42:822][685]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.09.04-21.46.42:859][685]LogUObjectHash: Compacting FUObjectHashTables data took   2.01ms
+[2025.09.04-21.46.42:865][685]LogEditorActor: Deleted 1 Actors (0.046 secs)
+[2025.09.04-21.46.45:734][782]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.09.04-21.46.45:734][782]LogPlayLevel: Creating play world package: /Game/FirstPerson/lukes_changes/UEDPIE_0_Lvl_1
+[2025.09.04-21.46.45:742][782]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007583s)
+[2025.09.04-21.46.45:742][782]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPerson/lukes_changes/Lvl_1.Lvl_1 to /Game/FirstPerson/lukes_changes/UEDPIE_0_Lvl_1.Lvl_1 (0.007642s)
+[2025.09.04-21.46.45:776][782]LogUObjectHash: Compacting FUObjectHashTables data took   1.83ms
+[2025.09.04-21.46.45:782][782]LogChaosDD: Creating Chaos Debug Draw Scene for world Lvl_1
+[2025.09.04-21.46.45:785][782]LogPlayLevel: PIE: World Init took: (0.002715s)
+[2025.09.04-21.46.45:786][782]LogAudio: Display: Creating Audio Device:                 Id: 41, Scope: Unique, Realtime: True
+[2025.09.04-21.46.45:786][782]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.09.04-21.46.45:786][782]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.09.04-21.46.45:786][782]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.09.04-21.46.45:786][782]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.09.04-21.46.45:786][782]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.09.04-21.46.45:786][782]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.09.04-21.46.45:786][782]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.09.04-21.46.45:786][782]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.09.04-21.46.45:786][782]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.09.04-21.46.45:786][782]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.09.04-21.46.45:786][782]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.09.04-21.46.45:789][782]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.09.04-21.46.45:807][782]LogAudioMixer: Display: Using Audio Hardware Device Speakers (VMware Virtual Audio (DevTap))
+[2025.09.04-21.46.45:807][782]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.09.04-21.46.45:807][782]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.09.04-21.46.45:807][782]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.09.04-21.46.45:808][782]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=41
+[2025.09.04-21.46.45:808][782]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=41
+[2025.09.04-21.46.45:812][782]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=41
+[2025.09.04-21.46.45:812][782]LogInit: FAudioDevice initialized with ID 41.
+[2025.09.04-21.46.45:812][782]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=41
+[2025.09.04-21.46.45:812][782]LogAudio: Display: Audio Device (ID: 41) registered with world 'Lvl_1'.
+[2025.09.04-21.46.45:812][782]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 41
+[2025.09.04-21.46.45:818][782]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2025.09.04-21.46.45:821][782]LogWorld: Bringing World /Game/FirstPerson/lukes_changes/UEDPIE_0_Lvl_1.Lvl_1 up for play (max tick rate 0) at 2025.09.04-15.46.45
+[2025.09.04-21.46.45:822][782]LogWorld: Bringing up level for play took: 0.003651
+[2025.09.04-21.46.45:826][782]LogOnline: OSS: Created online subsystem instance for: :Context_50
+[2025.09.04-21.46.45:835][782]PIE: Server logged in
+[2025.09.04-21.46.45:839][782]PIE: Play in editor total start time 0.105 seconds.
+[2025.09.04-21.46.46:047][783]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2025.09.04-21.46.48:608][928]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.09.04-21.46.48:608][928]LogWorld: BeginTearingDown for /Game/FirstPerson/lukes_changes/UEDPIE_0_Lvl_1
+[2025.09.04-21.46.48:608][928]LogWorld: UWorld::CleanupWorld for Lvl_1, bSessionEnded=true, bCleanupResources=true
+[2025.09.04-21.46.48:610][928]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.09.04-21.46.48:614][928]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.09.04-21.46.48:627][928]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.09.04-21.46.48:661][928]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.09.04-21.46.48:662][928]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 41
+[2025.09.04-21.46.48:662][928]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=41, StreamState=4
+[2025.09.04-21.46.48:664][928]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=41, StreamState=2
+[2025.09.04-21.46.48:674][928]LogUObjectHash: Compacting FUObjectHashTables data took   1.94ms
+[2025.09.04-21.46.48:802][929]LogPlayLevel: Display: Destroying online subsystem :Context_50
+[2025.09.04-21.49.08:423][557]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 8194.170898
+[2025.09.04-21.49.08:540][564]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.09.04-21.49.08:540][564]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 8194.271484, Update Interval: 340.458374
+[2025.09.04-21.49.08:941][587]Cmd: TRANSACTION UNDO
+[2025.09.04-21.49.08:941][587]LogEditorTransaction: Undo Move Elements
+[2025.09.04-21.49.25:995][320]LogStreaming: Display: FlushAsyncLoading(627): 1 QueuedPackages, 0 AsyncPackages
+[2025.09.04-21.49.26:076][320]LogStaticMesh: Display: Building static mesh SM_Door (Required Memory Estimate: 0.02669 MB)...
+[2025.09.04-21.49.26:076][320]LogStaticMesh: Display: Building static mesh SM_DoorFrame_Edge (Required Memory Estimate: 0.06426 MB)...
+[2025.09.04-21.49.26:076][320]LogStaticMesh: Display: Building static mesh SM_DoorFrame_Corner (Required Memory Estimate: 0.837803 MB)...
+[2025.09.04-21.49.26:078][320]LogStaticMesh: Adjacency [0.00s], tris: 12, UVs 1
+[2025.09.04-21.49.26:078][320]LogStaticMesh: Adjacency [0.00s], tris: 36, UVs 1
+[2025.09.04-21.49.26:078][320]LogStaticMesh: Clustering [0.00s]. Ratio: 1.000000
+[2025.09.04-21.49.26:078][320]LogStaticMesh: Clustering [0.00s]. Ratio: 1.000000
+[2025.09.04-21.49.26:078][320]LogStaticMesh: Leaves [0.00s]
+[2025.09.04-21.49.26:078][320]LogStaticMesh: Leaves [0.00s]
+[2025.09.04-21.49.26:078][320]LogStaticMesh: Reduce [0.00s]
+[2025.09.04-21.49.26:078][320]LogStaticMesh: Reduce [0.00s]
+[2025.09.04-21.49.26:078][320]LogStaticMesh: Fallback [0.00s], num tris: 12
+[2025.09.04-21.49.26:078][320]LogStaticMesh: Fallback [0.00s], num tris: 12
+[2025.09.04-21.49.26:078][320]LogStaticMesh: Fallback [0.00s], num tris: 36
+[2025.09.04-21.49.26:078][320]LogStaticMesh: ConstrainClusters:
+[2025.09.04-21.49.26:078][320]LogStaticMesh:   Input: 1 Clusters, 12 Triangles and 24 Vertices
+[2025.09.04-21.49.26:078][320]LogStaticMesh:   Output without splits: 1 Clusters, 12 Triangles and 24 Vertices
+[2025.09.04-21.49.26:078][320]LogStaticMesh:   Output with splits: 1 Clusters, 12 Triangles and 24 Vertices
+[2025.09.04-21.49.26:078][320]LogStaticMesh: Material Stats - Unique Materials: 1, Fast Path Clusters: 1, Slow Path Clusters: 0, 1 Material: 1, 2 Materials: 0, 3 Materials: 0, At Least 4 Materials: 0
+[2025.09.04-21.49.26:079][320]LogStaticMesh: WritePages:
+[2025.09.04-21.49.26:079][320]LogStaticMesh: Fallback [0.00s], num tris: 36
+[2025.09.04-21.49.26:079][320]LogStaticMesh:   Root: GPU size: 428 bytes. 1 Pages. 428.000 bytes per page (1.306% utilization).
+[2025.09.04-21.49.26:079][320]LogStaticMesh:   Streaming: 0 bytes.
+[2025.09.04-21.49.26:079][320]LogStaticMesh:   Page data disk size: 588 bytes. Fixup data size: 24 bytes.
+[2025.09.04-21.49.26:079][320]LogStaticMesh:   Total GPU size: 428 bytes, Total disk size: 612 bytes.
+[2025.09.04-21.49.26:079][320]LogStaticMesh: Encode [0.00s]
+[2025.09.04-21.49.26:079][320]LogStaticMesh: NaniteBuild [0.00s]
+[2025.09.04-21.49.26:079][320]LogStaticMesh: ConstrainClusters:
+[2025.09.04-21.49.26:079][320]LogStaticMesh:   Input: 1 Clusters, 36 Triangles and 48 Vertices
+[2025.09.04-21.49.26:079][320]LogStaticMesh:   Output without splits: 1 Clusters, 36 Triangles and 48 Vertices
+[2025.09.04-21.49.26:079][320]LogStaticMesh:   Output with splits: 1 Clusters, 36 Triangles and 48 Vertices
+[2025.09.04-21.49.26:079][320]LogStaticMesh: Material Stats - Unique Materials: 1, Fast Path Clusters: 1, Slow Path Clusters: 0, 1 Material: 1, 2 Materials: 0, 3 Materials: 0, At Least 4 Materials: 0
+[2025.09.04-21.49.26:079][320]LogStaticMesh: WritePages:
+[2025.09.04-21.49.26:079][320]LogStaticMesh:   Root: GPU size: 720 bytes. 1 Pages. 720.000 bytes per page (2.197% utilization).
+[2025.09.04-21.49.26:079][320]LogStaticMesh:   Streaming: 0 bytes.
+[2025.09.04-21.49.26:079][320]LogStaticMesh:   Page data disk size: 884 bytes. Fixup data size: 24 bytes.
+[2025.09.04-21.49.26:079][320]LogStaticMesh:   Total GPU size: 720 bytes, Total disk size: 908 bytes.
+[2025.09.04-21.49.26:079][320]LogStaticMesh: Encode [0.00s]
+[2025.09.04-21.49.26:079][320]LogStaticMesh: NaniteBuild [0.00s]
+[2025.09.04-21.49.26:081][320]LogStaticMesh: Adjacency [0.00s], tris: 536, UVs 1
+[2025.09.04-21.49.26:082][320]LogStaticMesh: Clustering [0.00s]. Ratio: 1.600000
+[2025.09.04-21.49.26:082][320]LogStaticMesh: Built static mesh [0.01s] /Game/LevelPrototyping/Interactable/Door/Assets/Meshes/SM_Door.SM_Door
+[2025.09.04-21.49.26:082][320]LogStaticMesh: Leaves [0.00s]
+[2025.09.04-21.49.26:083][320]LogStaticMesh: Built static mesh [0.01s] /Game/LevelPrototyping/Interactable/Door/Assets/Meshes/SM_DoorFrame_Edge.SM_DoorFrame_Edge
+[2025.09.04-21.49.26:106][320]LogStaticMesh: Reduce [0.02s]
+[2025.09.04-21.49.26:106][320]LogStaticMesh: Fallback [0.00s], num tris: 252
+[2025.09.04-21.49.26:108][320]LogStaticMesh: Fallback [0.00s], num tris: 252
+[2025.09.04-21.49.26:109][320]LogStaticMesh: ConstrainClusters:
+[2025.09.04-21.49.26:109][320]LogStaticMesh:   Input: 14 Clusters, 1292 Triangles and 1086 Vertices
+[2025.09.04-21.49.26:109][320]LogStaticMesh:   Output without splits: 14 Clusters, 1292 Triangles and 1086 Vertices
+[2025.09.04-21.49.26:109][320]LogStaticMesh:   Output with splits: 14 Clusters, 1292 Triangles and 1086 Vertices
+[2025.09.04-21.49.26:109][320]LogStaticMesh: Material Stats - Unique Materials: 1, Fast Path Clusters: 14, Slow Path Clusters: 0, 1 Material: 14, 2 Materials: 0, 3 Materials: 0, At Least 4 Materials: 0
+[2025.09.04-21.49.26:109][320]LogStaticMesh: WritePages:
+[2025.09.04-21.49.26:109][320]LogStaticMesh:   Root: GPU size: 15520 bytes. 1 Pages. 15520.000 bytes per page (47.363% utilization).
+[2025.09.04-21.49.26:109][320]LogStaticMesh:   Streaming: 0 bytes.
+[2025.09.04-21.49.26:109][320]LogStaticMesh:   Page data disk size: 12056 bytes. Fixup data size: 72 bytes.
+[2025.09.04-21.49.26:109][320]LogStaticMesh:   Total GPU size: 15520 bytes, Total disk size: 12128 bytes.
+[2025.09.04-21.49.26:109][320]LogStaticMesh: Encode [0.00s]
+[2025.09.04-21.49.26:109][320]LogStaticMesh: NaniteBuild [0.03s]
+[2025.09.04-21.49.26:129][320]LogStaticMesh: Built static mesh [0.05s] /Game/LevelPrototyping/Interactable/Door/Assets/Meshes/SM_DoorFrame_Corner.SM_DoorFrame_Corner
+[2025.09.04-21.49.26:184][320]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/LevelPrototyping/Interactable/Door/BP_DoorFrame.BP_DoorFrame_C
+[2025.09.04-21.49.26:184][320]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/LevelPrototyping/Interactable/Door/BP_DoorFrame.BP_DoorFrame_C
+[2025.09.04-21.49.26:191][320]LogActorFactory: Actor Factory spawned Blueprint /Game/LevelPrototyping/Interactable/Door/BP_DoorFrame.BP_DoorFrame as actor: BP_DoorFrame_C /Game/FirstPerson/lukes_changes/Lvl_1.Lvl_1:PersistentLevel.BP_DoorFrame_C_0
+[2025.09.04-21.49.26:194][320]LogActorFactory: Actor Factory spawned Blueprint /Game/LevelPrototyping/Interactable/Door/BP_DoorFrame.BP_DoorFrame as actor: BP_DoorFrame_C /Game/FirstPerson/lukes_changes/Lvl_1.Lvl_1:PersistentLevel.BP_DoorFrame_C_0
+[2025.09.04-21.49.26:239][320]LogUObjectHash: Compacting FUObjectHashTables data took   1.88ms
+[2025.09.04-21.49.26:280][320]LogEditorActor: Deleted 0 Actors (0.077 secs)
+[2025.09.04-21.49.26:582][321]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/LevelPrototyping/Interactable/Door/BP_DoorFrame.BP_DoorFrame_C
+[2025.09.04-21.49.26:582][321]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/LevelPrototyping/Interactable/Door/BP_DoorFrame.BP_DoorFrame_C
+[2025.09.04-21.49.26:589][321]LogActorFactory: Actor Factory spawned Blueprint /Game/LevelPrototyping/Interactable/Door/BP_DoorFrame.BP_DoorFrame as actor: BP_DoorFrame_C /Game/FirstPerson/lukes_changes/Lvl_1.Lvl_1:PersistentLevel.BP_DoorFrame_C_1
+[2025.09.04-21.49.26:598][321]LogActorFactory: Actor Factory spawned Blueprint /Game/LevelPrototyping/Interactable/Door/BP_DoorFrame.BP_DoorFrame as actor: BP_DoorFrame_C /Game/FirstPerson/lukes_changes/Lvl_1.Lvl_1:PersistentLevel.BP_DoorFrame_C_1
+[2025.09.04-21.49.29:086][382]LogUObjectHash: Compacting FUObjectHashTables data took   1.85ms
+[2025.09.04-21.49.29:094][382]LogEditorActor: Deleted 0 Actors (0.044 secs)
+[2025.09.04-21.49.29:103][382]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/LevelPrototyping/Interactable/Door/BP_DoorFrame.BP_DoorFrame_C
+[2025.09.04-21.49.29:103][382]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/LevelPrototyping/Interactable/Door/BP_DoorFrame.BP_DoorFrame_C
+[2025.09.04-21.49.29:112][382]LogActorFactory: Actor Factory spawned Blueprint /Game/LevelPrototyping/Interactable/Door/BP_DoorFrame.BP_DoorFrame as actor: BP_DoorFrame_C /Game/FirstPerson/lukes_changes/Lvl_1.Lvl_1:PersistentLevel.BP_DoorFrame_C_2
+[2025.09.04-21.49.29:119][382]LogActorFactory: Actor Factory spawned Blueprint /Game/LevelPrototyping/Interactable/Door/BP_DoorFrame.BP_DoorFrame as actor: BP_DoorFrame_C /Game/FirstPerson/lukes_changes/Lvl_1.Lvl_1:PersistentLevel.BP_DoorFrame_C_2
+[2025.09.04-21.49.31:963][543]Cmd: DELETE
+[2025.09.04-21.49.31:963][543]Cmd: ACTOR DELETE
+[2025.09.04-21.49.31:966][543]LogEditorActor: Deleted Actor: BP_DoorFrame_C
+[2025.09.04-21.49.32:006][543]LogUObjectHash: Compacting FUObjectHashTables data took   1.88ms
+[2025.09.04-21.49.32:011][543]LogEditorActor: Deleted 1 Actors (0.048 secs)
+[2025.09.04-21.50.18:431][105]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.09.04-21.50.18:441][105]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.09.04-21.50.18:441][105]LogPlayLevel: Creating play world package: /Game/FirstPerson/lukes_changes/UEDPIE_0_Lvl_1
+[2025.09.04-21.50.18:450][105]LogPlayLevel: PIE: StaticDuplicateObject took: (0.009625s)
+[2025.09.04-21.50.18:450][105]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPerson/lukes_changes/Lvl_1.Lvl_1 to /Game/FirstPerson/lukes_changes/UEDPIE_0_Lvl_1.Lvl_1 (0.009683s)
+[2025.09.04-21.50.18:483][105]LogUObjectHash: Compacting FUObjectHashTables data took   1.82ms
+[2025.09.04-21.50.18:488][105]LogChaosDD: Creating Chaos Debug Draw Scene for world Lvl_1
+[2025.09.04-21.50.18:491][105]LogPlayLevel: PIE: World Init took: (0.002576s)
+[2025.09.04-21.50.18:492][105]LogAudio: Display: Creating Audio Device:                 Id: 42, Scope: Unique, Realtime: True
+[2025.09.04-21.50.18:492][105]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.09.04-21.50.18:492][105]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.09.04-21.50.18:492][105]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.09.04-21.50.18:492][105]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.09.04-21.50.18:492][105]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.09.04-21.50.18:492][105]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.09.04-21.50.18:492][105]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.09.04-21.50.18:492][105]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.09.04-21.50.18:492][105]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.09.04-21.50.18:492][105]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.09.04-21.50.18:492][105]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.09.04-21.50.18:495][105]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.09.04-21.50.18:517][105]LogAudioMixer: Display: Using Audio Hardware Device Speakers (VMware Virtual Audio (DevTap))
+[2025.09.04-21.50.18:517][105]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.09.04-21.50.18:517][105]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.09.04-21.50.18:517][105]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.09.04-21.50.18:518][105]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=42
+[2025.09.04-21.50.18:519][105]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=42
+[2025.09.04-21.50.18:522][105]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=42
+[2025.09.04-21.50.18:522][105]LogInit: FAudioDevice initialized with ID 42.
+[2025.09.04-21.50.18:522][105]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=42
+[2025.09.04-21.50.18:522][105]LogAudio: Display: Audio Device (ID: 42) registered with world 'Lvl_1'.
+[2025.09.04-21.50.18:522][105]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 42
+[2025.09.04-21.50.18:529][105]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2025.09.04-21.50.18:533][105]LogWorld: Bringing World /Game/FirstPerson/lukes_changes/UEDPIE_0_Lvl_1.Lvl_1 up for play (max tick rate 0) at 2025.09.04-15.50.18
+[2025.09.04-21.50.18:534][105]LogWorld: Bringing up level for play took: 0.004544
+[2025.09.04-21.50.18:537][105]LogOnline: OSS: Created online subsystem instance for: :Context_51
+[2025.09.04-21.50.18:545][105]PIE: Server logged in
+[2025.09.04-21.50.18:548][105]PIE: Play in editor total start time 0.109 seconds.
+[2025.09.04-21.50.18:756][106]LogPSOHitching: Encountered 1550 PSO creation hitches so far (654 graphics, 896 compute). 0 of them were precached.
+[2025.09.04-21.50.19:205][106]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2025.09.04-21.50.22:130][266]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.09.04-21.50.22:130][266]LogWorld: BeginTearingDown for /Game/FirstPerson/lukes_changes/UEDPIE_0_Lvl_1
+[2025.09.04-21.50.22:130][266]LogWorld: UWorld::CleanupWorld for Lvl_1, bSessionEnded=true, bCleanupResources=true
+[2025.09.04-21.50.22:131][266]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.09.04-21.50.22:144][266]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.09.04-21.50.22:155][266]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.09.04-21.50.22:188][266]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.09.04-21.50.22:189][266]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 42
+[2025.09.04-21.50.22:189][266]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=42, StreamState=4
+[2025.09.04-21.50.22:191][266]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=42, StreamState=2
+[2025.09.04-21.50.22:202][266]LogUObjectHash: Compacting FUObjectHashTables data took   1.87ms
+[2025.09.04-21.50.22:324][267]LogPlayLevel: Display: Destroying online subsystem :Context_51
+[2025.09.04-21.51.35:433][434]Cmd: DELETE
+[2025.09.04-21.51.35:433][434]Cmd: ACTOR DELETE
+[2025.09.04-21.51.35:437][434]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.09.04-21.51.35:476][434]LogUObjectHash: Compacting FUObjectHashTables data took   1.82ms
+[2025.09.04-21.51.35:480][434]LogEditorActor: Deleted 1 Actors (0.047 secs)
+[2025.09.04-21.51.37:063][520]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.09.04-21.51.37:073][520]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.09.04-21.51.37:100][520]LogPlayLevel: Creating play world package: /Game/FirstPerson/lukes_changes/UEDPIE_0_Lvl_1
+[2025.09.04-21.51.37:109][520]LogPlayLevel: PIE: StaticDuplicateObject took: (0.008901s)
+[2025.09.04-21.51.37:109][520]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPerson/lukes_changes/Lvl_1.Lvl_1 to /Game/FirstPerson/lukes_changes/UEDPIE_0_Lvl_1.Lvl_1 (0.008973s)
+[2025.09.04-21.51.37:144][520]LogUObjectHash: Compacting FUObjectHashTables data took   1.86ms
+[2025.09.04-21.51.37:147][520]LogChaosDD: Creating Chaos Debug Draw Scene for world Lvl_1
+[2025.09.04-21.51.37:150][520]LogPlayLevel: PIE: World Init took: (0.002596s)
+[2025.09.04-21.51.37:151][520]LogAudio: Display: Creating Audio Device:                 Id: 43, Scope: Unique, Realtime: True
+[2025.09.04-21.51.37:151][520]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.09.04-21.51.37:151][520]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.09.04-21.51.37:151][520]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.09.04-21.51.37:151][520]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.09.04-21.51.37:151][520]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.09.04-21.51.37:151][520]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.09.04-21.51.37:151][520]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.09.04-21.51.37:151][520]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.09.04-21.51.37:151][520]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.09.04-21.51.37:152][520]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.09.04-21.51.37:152][520]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.09.04-21.51.37:154][520]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.09.04-21.51.37:173][520]LogAudioMixer: Display: Using Audio Hardware Device Speakers (VMware Virtual Audio (DevTap))
+[2025.09.04-21.51.37:173][520]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.09.04-21.51.37:173][520]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.09.04-21.51.37:173][520]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.09.04-21.51.37:174][520]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=43
+[2025.09.04-21.51.37:174][520]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=43
+[2025.09.04-21.51.37:178][520]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=43
+[2025.09.04-21.51.37:178][520]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=43
+[2025.09.04-21.51.37:178][520]LogInit: FAudioDevice initialized with ID 43.
+[2025.09.04-21.51.37:178][520]LogAudio: Display: Audio Device (ID: 43) registered with world 'Lvl_1'.
+[2025.09.04-21.51.37:178][520]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 43
+[2025.09.04-21.51.37:184][520]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2025.09.04-21.51.37:189][520]LogWorld: Bringing World /Game/FirstPerson/lukes_changes/UEDPIE_0_Lvl_1.Lvl_1 up for play (max tick rate 0) at 2025.09.04-15.51.37
+[2025.09.04-21.51.37:190][520]LogWorld: Bringing up level for play took: 0.004490
+[2025.09.04-21.51.37:193][520]LogOnline: OSS: Created online subsystem instance for: :Context_52
+[2025.09.04-21.51.37:203][520]PIE: Server logged in
+[2025.09.04-21.51.37:207][520]PIE: Play in editor total start time 0.134 seconds.
+[2025.09.04-21.51.37:420][521]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2025.09.04-21.51.52:341][408]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.09.04-21.51.52:341][408]LogWorld: BeginTearingDown for /Game/FirstPerson/lukes_changes/UEDPIE_0_Lvl_1
+[2025.09.04-21.51.52:341][408]LogWorld: UWorld::CleanupWorld for Lvl_1, bSessionEnded=true, bCleanupResources=true
+[2025.09.04-21.51.52:342][408]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.09.04-21.51.52:351][408]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.09.04-21.51.52:364][408]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.09.04-21.51.52:398][408]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.09.04-21.51.52:398][408]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 43
+[2025.09.04-21.51.52:398][408]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=43, StreamState=4
+[2025.09.04-21.51.52:401][408]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=43, StreamState=2
+[2025.09.04-21.51.52:407][408]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.09.04-21.51.52:412][408]LogUObjectHash: Compacting FUObjectHashTables data took   1.99ms
+[2025.09.04-21.51.52:463][409]LogPlayLevel: Display: Destroying online subsystem :Context_52
+[2025.09.04-21.51.55:610][524]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.09.04-21.51.55:610][524]LogPlayLevel: Creating play world package: /Game/FirstPerson/lukes_changes/UEDPIE_0_Lvl_1
+[2025.09.04-21.51.55:619][524]LogPlayLevel: PIE: StaticDuplicateObject took: (0.009149s)
+[2025.09.04-21.51.55:619][524]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPerson/lukes_changes/Lvl_1.Lvl_1 to /Game/FirstPerson/lukes_changes/UEDPIE_0_Lvl_1.Lvl_1 (0.009208s)
+[2025.09.04-21.51.55:656][524]LogUObjectHash: Compacting FUObjectHashTables data took   1.90ms
+[2025.09.04-21.51.55:660][524]LogChaosDD: Creating Chaos Debug Draw Scene for world Lvl_1
+[2025.09.04-21.51.55:663][524]LogPlayLevel: PIE: World Init took: (0.002693s)
+[2025.09.04-21.51.55:663][524]LogAudio: Display: Creating Audio Device:                 Id: 44, Scope: Unique, Realtime: True
+[2025.09.04-21.51.55:663][524]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.09.04-21.51.55:664][524]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.09.04-21.51.55:664][524]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.09.04-21.51.55:664][524]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.09.04-21.51.55:664][524]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.09.04-21.51.55:664][524]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.09.04-21.51.55:664][524]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.09.04-21.51.55:664][524]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.09.04-21.51.55:664][524]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.09.04-21.51.55:664][524]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.09.04-21.51.55:664][524]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.09.04-21.51.55:666][524]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.09.04-21.51.55:685][524]LogAudioMixer: Display: Using Audio Hardware Device Speakers (VMware Virtual Audio (DevTap))
+[2025.09.04-21.51.55:686][524]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.09.04-21.51.55:686][524]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.09.04-21.51.55:686][524]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.09.04-21.51.55:686][524]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=44
+[2025.09.04-21.51.55:686][524]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=44
+[2025.09.04-21.51.55:691][524]LogInit: FAudioDevice initialized with ID 44.
+[2025.09.04-21.51.55:691][524]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=44
+[2025.09.04-21.51.55:691][524]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=44
+[2025.09.04-21.51.55:691][524]LogAudio: Display: Audio Device (ID: 44) registered with world 'Lvl_1'.
+[2025.09.04-21.51.55:691][524]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 44
+[2025.09.04-21.51.55:697][524]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2025.09.04-21.51.55:701][524]LogWorld: Bringing World /Game/FirstPerson/lukes_changes/UEDPIE_0_Lvl_1.Lvl_1 up for play (max tick rate 0) at 2025.09.04-15.51.55
+[2025.09.04-21.51.55:702][524]LogWorld: Bringing up level for play took: 0.004407
+[2025.09.04-21.51.55:705][524]LogOnline: OSS: Created online subsystem instance for: :Context_53
+[2025.09.04-21.51.55:715][524]PIE: Server logged in
+[2025.09.04-21.51.55:719][524]PIE: Play in editor total start time 0.109 seconds.
+[2025.09.04-21.51.55:920][525]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2025.09.04-21.51.58:381][664]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.09.04-21.51.58:381][664]LogWorld: BeginTearingDown for /Game/FirstPerson/lukes_changes/UEDPIE_0_Lvl_1
+[2025.09.04-21.51.58:381][664]LogWorld: UWorld::CleanupWorld for Lvl_1, bSessionEnded=true, bCleanupResources=true
+[2025.09.04-21.51.58:382][664]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.09.04-21.51.58:387][664]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.09.04-21.51.58:399][664]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.09.04-21.51.58:433][664]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.09.04-21.51.58:434][664]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 44
+[2025.09.04-21.51.58:434][664]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=44, StreamState=4
+[2025.09.04-21.51.58:436][664]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=44, StreamState=2
+[2025.09.04-21.51.58:448][664]LogUObjectHash: Compacting FUObjectHashTables data took   2.03ms
+[2025.09.04-21.51.58:578][665]LogPlayLevel: Display: Destroying online subsystem :Context_53
+[2025.09.04-21.52.17:047][657]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.09.04-21.52.17:047][657]LogPlayLevel: Creating play world package: /Game/FirstPerson/lukes_changes/UEDPIE_0_Lvl_1
+[2025.09.04-21.52.17:057][657]LogPlayLevel: PIE: StaticDuplicateObject took: (0.009172s)
+[2025.09.04-21.52.17:057][657]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPerson/lukes_changes/Lvl_1.Lvl_1 to /Game/FirstPerson/lukes_changes/UEDPIE_0_Lvl_1.Lvl_1 (0.009228s)
+[2025.09.04-21.52.17:092][657]LogUObjectHash: Compacting FUObjectHashTables data took   1.84ms
+[2025.09.04-21.52.17:098][657]LogChaosDD: Creating Chaos Debug Draw Scene for world Lvl_1
+[2025.09.04-21.52.17:100][657]LogPlayLevel: PIE: World Init took: (0.002755s)
+[2025.09.04-21.52.17:101][657]LogAudio: Display: Creating Audio Device:                 Id: 45, Scope: Unique, Realtime: True
+[2025.09.04-21.52.17:101][657]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.09.04-21.52.17:101][657]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.09.04-21.52.17:101][657]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.09.04-21.52.17:101][657]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.09.04-21.52.17:101][657]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.09.04-21.52.17:101][657]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.09.04-21.52.17:101][657]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.09.04-21.52.17:101][657]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.09.04-21.52.17:101][657]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.09.04-21.52.17:101][657]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.09.04-21.52.17:101][657]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.09.04-21.52.17:104][657]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.09.04-21.52.17:123][657]LogAudioMixer: Display: Using Audio Hardware Device Speakers (VMware Virtual Audio (DevTap))
+[2025.09.04-21.52.17:123][657]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.09.04-21.52.17:123][657]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.09.04-21.52.17:123][657]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.09.04-21.52.17:123][657]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=45
+[2025.09.04-21.52.17:124][657]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=45
+[2025.09.04-21.52.17:127][657]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=45
+[2025.09.04-21.52.17:127][657]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=45
+[2025.09.04-21.52.17:127][657]LogInit: FAudioDevice initialized with ID 45.
+[2025.09.04-21.52.17:127][657]LogAudio: Display: Audio Device (ID: 45) registered with world 'Lvl_1'.
+[2025.09.04-21.52.17:127][657]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 45
+[2025.09.04-21.52.17:135][657]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2025.09.04-21.52.17:139][657]LogWorld: Bringing World /Game/FirstPerson/lukes_changes/UEDPIE_0_Lvl_1.Lvl_1 up for play (max tick rate 0) at 2025.09.04-15.52.17
+[2025.09.04-21.52.17:140][657]LogWorld: Bringing up level for play took: 0.004703
+[2025.09.04-21.52.17:143][657]LogOnline: OSS: Created online subsystem instance for: :Context_54
+[2025.09.04-21.52.17:153][657]PIE: Server logged in
+[2025.09.04-21.52.17:157][657]PIE: Play in editor total start time 0.11 seconds.
+[2025.09.04-21.52.17:358][657]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2025.09.04-21.52.27:071][230]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.09.04-21.52.27:071][230]LogWorld: BeginTearingDown for /Game/FirstPerson/lukes_changes/UEDPIE_0_Lvl_1
+[2025.09.04-21.52.27:071][230]LogWorld: UWorld::CleanupWorld for Lvl_1, bSessionEnded=true, bCleanupResources=true
+[2025.09.04-21.52.27:072][230]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.09.04-21.52.27:077][230]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.09.04-21.52.27:090][230]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.09.04-21.52.27:122][230]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.09.04-21.52.27:123][230]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 45
+[2025.09.04-21.52.27:123][230]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=45, StreamState=4
+[2025.09.04-21.52.27:126][230]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=45, StreamState=2
+[2025.09.04-21.52.27:137][230]LogUObjectHash: Compacting FUObjectHashTables data took   1.96ms
+[2025.09.04-21.52.27:265][231]LogPlayLevel: Display: Destroying online subsystem :Context_54
+[2025.09.04-21.52.31:643][447]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.09.04-21.52.31:886][447]LogUObjectHash: Compacting FUObjectHashTables data took   1.87ms
+[2025.09.04-21.52.31:919][447]LogSavePackage: Moving output files for package: /Game/FirstPerson/lukes_changes/Lvl_1
+[2025.09.04-21.52.31:920][447]LogSavePackage: Moving '../../../../../../Users/slynch/Documents/Unreal Projects/SpitRunner/SpitRunner/Saved/Lvl_15D352CB246AAABD6FD01D798B236669C.tmp' to '../../../../../../Users/slynch/Documents/Unreal Projects/SpitRunner/SpitRunner/Content/FirstPerson/lukes_changes/Lvl_1.umap'
+[2025.09.04-21.52.31:930][447]LogAssetRegistry: Warning: FPathExistence failed to gather correct capitalization from disk for C:/Users/slynch/Documents/Unreal Projects/SpitRunner/SpitRunner/Content/FirstPerson/lukes_changes/Lvl_1.umap, because GetFilenameOnDisk returned non-matching filename 'C:/SnapVolumesTemp/MountPoints/{2a1a129f-0000-0000-0000-100000000000}/{84b2e9e6-b9f5-47d9-be52-3b2d612ac90e}/SVROOT/Users/slynch/Documents/Unreal Projects/SpitRunner/SpitRunner/Content/FirstPerson/lukes_changes/Lvl_1.umap'.
+[2025.09.04-21.52.31:931][447]LogFileHelpers: Saving map 'Lvl_1' took 0.099
+[2025.09.04-21.52.31:958][447]LogFileHelpers: InternalPromptForCheckoutAndSave took 315.728 ms (total: 3.71 sec)
+[2025.09.04-21.52.31:960][447]LogAssetRegistry: Warning: FPathExistence failed to gather correct capitalization from disk for C:/Users/slynch/Documents/Unreal Projects/SpitRunner/SpitRunner/Content/FirstPerson/lukes_changes/Lvl_1.umap, because GetFilenameOnDisk returned non-matching filename 'C:/SnapVolumesTemp/MountPoints/{2a1a129f-0000-0000-0000-100000000000}/{84b2e9e6-b9f5-47d9-be52-3b2d612ac90e}/SVROOT/Users/slynch/Documents/Unreal Projects/SpitRunner/SpitRunner/Content/FirstPerson/lukes_changes/Lvl_1.umap'.
+[2025.09.04-21.52.32:099][447]LogContentValidation: Display: Starting to validate 1 assets
+[2025.09.04-21.52.32:099][447]LogContentValidation: Enabled validators:
+[2025.09.04-21.52.32:099][447]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.09.04-21.52.32:099][447]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.09.04-21.52.32:099][447]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.09.04-21.52.32:099][447]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.09.04-21.52.32:099][447]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.09.04-21.52.32:099][447]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.09.04-21.52.32:099][447]AssetCheck: /Game/FirstPerson/lukes_changes/Lvl_1 Validating asset
+[2025.09.04-21.52.41:371][699]LogUObjectHash: Compacting FUObjectHashTables data took   0.90ms
+[2025.09.04-21.52.41:375][699]LogStreaming: Display: FlushAsyncLoading(628): 1 QueuedPackages, 0 AsyncPackages
+[2025.09.04-21.52.41:404][699]LogChaosDD: Creating Chaos Debug Draw Scene for world MainMenu
+[2025.09.04-21.52.41:406][699]LogAssetEditorSubsystem: Opening Asset editor for World /Game/FirstPerson/lukes_changes/MainMenu.MainMenu
+[2025.09.04-21.52.41:406][699]Cmd: MAP LOAD FILE="../../../../../../Users/slynch/Documents/Unreal Projects/SpitRunner/SpitRunner/Content/FirstPerson/lukes_changes/MainMenu.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=4
+[2025.09.04-21.52.41:431][699]LogWorld: UWorld::CleanupWorld for Lvl_1, bSessionEnded=true, bCleanupResources=true
+[2025.09.04-21.52.41:432][699]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.09.04-21.52.41:465][699]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.09.04-21.52.41:470][699]LogUObjectHash: Compacting FUObjectHashTables data took   1.95ms
+[2025.09.04-21.52.41:474][699]LogWorld: UWorld::CleanupWorld for MainMenu, bSessionEnded=true, bCleanupResources=true
+[2025.09.04-21.52.41:474][699]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.09.04-21.52.41:511][699]LogUObjectHash: Compacting FUObjectHashTables data took   1.93ms
+[2025.09.04-21.52.41:667][699]LogUObjectHash: Compacting FUObjectHashTables data took   1.85ms
+[2025.09.04-21.52.41:699][699]LogAudio: Display: Audio Device (ID: 1) registered with world 'MainMenu'.
+[2025.09.04-21.52.41:699][699]LogChaosDD: Creating Chaos Debug Draw Scene for world MainMenu
+[2025.09.04-21.52.41:715][699]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2025.09.04-21.52.41:753][699]LogUObjectHash: Compacting FUObjectHashTables data took   1.86ms
+[2025.09.04-21.52.41:763][699]Cmd: MAP CHECKDEP NOCLEARLOG
+[2025.09.04-21.52.41:763][699]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.079ms to complete.
+[2025.09.04-21.52.41:917][701]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
